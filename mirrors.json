@@ -4,7 +4,7 @@
     "iso": "yes",
     "name": "eze.sysarmy.com",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.eze.sysarmy.com/archlinux/",
       "https://mirrors.eze.sysarmy.com/archlinux/"
@@ -15,7 +15,7 @@
     "iso": "yes",
     "name": "aarnet.edu.au",
     "protocols": ["https", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "https://mirror.aarnet.edu.au/pub/archlinux/",
       "rsync://mirror.aarnet.edu.au/pub/archlinux/"
@@ -26,7 +26,7 @@
     "iso": "yes",
     "name": "digitalpacific.com.au",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://archlinux.mirror.digitalpacific.com.au/",
       "https://archlinux.mirror.digitalpacific.com.au/",
@@ -38,7 +38,7 @@
     "iso": "yes",
     "name": "iinet.net.au",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://ftp.iinet.net.au/pub/archlinux/",
       "rsync://ftp.iinet.net.au/pub/archlinux/"
@@ -49,7 +49,7 @@
     "iso": "yes",
     "name": "internode.on.net",
     "protocols": ["http", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://mirror.internode.on.net/pub/archlinux/",
       "rsync://mirror.internode.on.net/pub/archlinux/"
@@ -60,7 +60,7 @@
     "iso": "yes",
     "name": "swin.edu.au",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://ftp.swin.edu.au/archlinux/",
       "rsync://ftp.swin.edu.au/archlinux/"
@@ -71,7 +71,7 @@
     "iso": "yes",
     "name": "wale.id.au",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.wale.id.au/archlinux/",
       "https://mirrors.wale.id.au/archlinux/"
@@ -82,7 +82,7 @@
     "iso": "yes",
     "name": "alwyzon.net",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.alwyzon.net/archlinux/",
       "https://mirror.alwyzon.net/archlinux/",
@@ -94,7 +94,7 @@
     "iso": "yes",
     "name": "digitalnova.at",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://mirror.digitalnova.at/archlinux/"]
   },
   {
@@ -102,7 +102,7 @@
     "iso": "yes",
     "name": "easyname.at",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.easyname.at/archlinux/",
       "rsync://mirror.easyname.at/archlinux/"
@@ -113,7 +113,7 @@
     "iso": "yes",
     "name": "reisenbauer.ee",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.reisenbauer.ee/archlinux/",
       "https://mirror.reisenbauer.ee/archlinux/",
@@ -125,7 +125,7 @@
     "iso": "yes",
     "name": "hostart.az",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.hostart.az/archlinux/",
       "https://mirror.hostart.az/archlinux/"
@@ -136,7 +136,7 @@
     "iso": "no",
     "name": "yer.az",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.yer.az/archlinux/",
       "https://mirror.yer.az/archlinux/"
@@ -147,7 +147,7 @@
     "iso": "yes",
     "name": "xeonbd.com",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://mirror.xeonbd.com/archlinux/"]
   },
   {
@@ -155,7 +155,7 @@
     "iso": "yes",
     "name": "byfly.by",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://ftp.byfly.by/pub/archlinux/",
       "rsync://ftp.byfly.by/pub/archlinux/"
@@ -166,7 +166,7 @@
     "iso": "yes",
     "name": "datacenter.by",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.datacenter.by/pub/archlinux/",
       "rsync://mirror.datacenter.by/pub/archlinux/"
@@ -177,7 +177,7 @@
     "iso": "yes",
     "name": "archlinux.cu.be",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://archlinux.cu.be/"]
   },
   {
@@ -185,7 +185,7 @@
     "iso": "yes",
     "name": "kangaroot.net",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://archlinux.mirror.kangaroot.net/"]
   },
   {
@@ -193,7 +193,7 @@
     "iso": "yes",
     "name": "tiguinet.net",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://mirror.tiguinet.net/arch/"]
   },
   {
@@ -201,7 +201,7 @@
     "iso": "yes",
     "name": "mirror.ba",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://archlinux.mirror.ba/", "rsync://archlinux.mirror.ba/"]
   },
   {
@@ -209,7 +209,7 @@
     "iso": "yes",
     "name": "br.mirror.archlinux-br.org",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://br.mirror.archlinux-br.org/"]
   },
   {
@@ -217,7 +217,7 @@
     "iso": "yes",
     "name": "c3sl.ufpr.br",
     "protocols": ["http", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://archlinux.c3sl.ufpr.br/",
       "rsync://archlinux.c3sl.ufpr.br/"
@@ -228,7 +228,7 @@
     "iso": "no",
     "name": "caco.ic.unicamp.br",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://www.caco.ic.unicamp.br/archlinux/",
       "https://www.caco.ic.unicamp.br/archlinux/"
@@ -239,7 +239,7 @@
     "iso": "yes",
     "name": "linorg.usp.br",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://linorg.usp.br/archlinux/",
       "rsync://linorg.usp.br/archlinux/"
@@ -250,7 +250,7 @@
     "iso": "yes",
     "name": "pop-es.rnp.br",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://archlinux.pop-es.rnp.br/",
       "rsync://archlinux.pop-es.rnp.br/"
@@ -261,7 +261,7 @@
     "iso": "yes",
     "name": "ufam.edu.br",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://mirror.ufam.edu.br/archlinux/"]
   },
   {
@@ -269,7 +269,7 @@
     "iso": "yes",
     "name": "ufscar.br",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.ufscar.br/archlinux/",
       "https://mirror.ufscar.br/archlinux/"
@@ -280,7 +280,7 @@
     "iso": "no",
     "name": "archlinux.bg",
     "protocols": ["https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://mirror.archlinux.bg/", "rsync://mirror.archlinux.bg/"]
   },
   {
@@ -288,7 +288,7 @@
     "iso": "yes",
     "name": "darklinux.uk",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://mirror.darklinux.uk/archlinux/"]
   },
   {
@@ -296,7 +296,7 @@
     "iso": "yes",
     "name": "host.ag",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.host.ag/archlinux/",
       "rsync://mirror.host.ag/archlinux/"
@@ -307,7 +307,7 @@
     "iso": "no",
     "name": "netix.net",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.netix.net/archlinux/",
       "rsync://mirrors.netix.net/archlinux/"
@@ -318,7 +318,7 @@
     "iso": "yes",
     "name": "telepoint.bg",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.telepoint.bg/archlinux/",
       "https://mirror.telepoint.bg/archlinux/",
@@ -330,7 +330,7 @@
     "iso": "yes",
     "name": "uni-plovdiv.net",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.uni-plovdiv.net/archlinux/",
       "https://mirrors.uni-plovdiv.net/archlinux/",
@@ -342,7 +342,7 @@
     "iso": "no",
     "name": "sabay.com.kh",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.sabay.com.kh/archlinux/",
       "https://mirror.sabay.com.kh/archlinux/"
@@ -353,7 +353,7 @@
     "iso": "yes",
     "name": "0xem.ma",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.0xem.ma/arch/",
       "https://mirror.0xem.ma/arch/",
@@ -365,7 +365,7 @@
     "iso": "yes",
     "name": "arch.mirror.winslow.cloud",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://arch.mirror.winslow.cloud/"]
   },
   {
@@ -373,7 +373,7 @@
     "iso": "yes",
     "name": "cedille.club",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://mirror.cedille.club/archlinux/"]
   },
   {
@@ -381,7 +381,7 @@
     "iso": "yes",
     "name": "colo-serv.net",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://archlinux.mirror.colo-serv.net/"]
   },
   {
@@ -389,7 +389,7 @@
     "iso": "yes",
     "name": "csclub.uwaterloo.ca",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://mirror.csclub.uwaterloo.ca/archlinux/",
       "https://mirror.csclub.uwaterloo.ca/archlinux/",
@@ -401,7 +401,7 @@
     "iso": "yes",
     "name": "evolution-host.com",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror2.evolution-host.com/archlinux/",
       "https://mirror2.evolution-host.com/archlinux/",
@@ -413,7 +413,7 @@
     "iso": "yes",
     "name": "its.dal.ca",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.its.dal.ca/archlinux/",
       "rsync://mirror.its.dal.ca/archlinux/"
@@ -424,7 +424,7 @@
     "iso": "yes",
     "name": "mirror.quantum5.ca",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.quantum5.ca/archlinux/",
       "https://mirror.quantum5.ca/archlinux/",
@@ -436,7 +436,7 @@
     "iso": "yes",
     "name": "muug.ca",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://muug.ca/mirror/archlinux/",
       "https://muug.ca/mirror/archlinux/"
@@ -447,7 +447,7 @@
     "iso": "yes",
     "name": "powerfly.ca",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.powerfly.ca/archlinux/",
       "https://mirror.powerfly.ca/archlinux/",
@@ -459,7 +459,7 @@
     "iso": "yes",
     "name": "rafal.ca",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://archlinux.mirror.rafal.ca/",
       "rsync://archlinux.mirror.rafal.ca/"
@@ -470,7 +470,7 @@
     "iso": "yes",
     "name": "scd31.com",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://mirror.scd31.com/arch/", "https://mirror.scd31.com/arch/"]
   },
   {
@@ -478,7 +478,7 @@
     "iso": "yes",
     "name": "xenyth.net",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.xenyth.net/archlinux/",
       "https://mirror.xenyth.net/archlinux/",
@@ -490,7 +490,7 @@
     "iso": "yes",
     "name": "anquan.cl",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.anquan.cl/archlinux/",
       "https://mirror.anquan.cl/archlinux/",
@@ -502,7 +502,7 @@
     "iso": "yes",
     "name": "archlinux.cl",
     "protocols": ["http"],
-    "tier": "untiered",
+    "tier": -1,
     "urls": ["http://mirror.archlinux.cl/"]
   },
   {
@@ -510,7 +510,7 @@
     "iso": "yes",
     "name": "hnd.cl",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.hnd.cl/archlinux/",
       "https://mirror.hnd.cl/archlinux/",
@@ -522,7 +522,7 @@
     "iso": "yes",
     "name": "ufro.cl",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.ufro.cl/archlinux/",
       "https://mirror.ufro.cl/archlinux/"
@@ -533,7 +533,7 @@
     "iso": "yes",
     "name": "163.com",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://mirrors.163.com/archlinux/"]
   },
   {
@@ -541,7 +541,7 @@
     "iso": "yes",
     "name": "aliyun.com",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.aliyun.com/archlinux/",
       "https://mirrors.aliyun.com/archlinux/"
@@ -552,7 +552,7 @@
     "iso": "yes",
     "name": "bfsu.edu.cn",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.bfsu.edu.cn/archlinux/",
       "https://mirrors.bfsu.edu.cn/archlinux/",
@@ -564,7 +564,7 @@
     "iso": "yes",
     "name": "cqu.edu.cn",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.cqu.edu.cn/archlinux/",
       "https://mirrors.cqu.edu.cn/archlinux/"
@@ -575,7 +575,7 @@
     "iso": "yes",
     "name": "hit.edu.cn",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.hit.edu.cn/archlinux/",
       "https://mirrors.hit.edu.cn/archlinux/",
@@ -587,7 +587,7 @@
     "iso": "yes",
     "name": "jlu.edu.cn",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.jlu.edu.cn/archlinux/",
       "https://mirrors.jlu.edu.cn/archlinux/",
@@ -599,7 +599,7 @@
     "iso": "yes",
     "name": "lzu.edu.cn",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://mirror.lzu.edu.cn/archlinux/"]
   },
   {
@@ -607,7 +607,7 @@
     "iso": "yes",
     "name": "neusoft.edu.cn",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://mirrors.neusoft.edu.cn/archlinux/",
       "https://mirrors.neusoft.edu.cn/archlinux/",
@@ -619,7 +619,7 @@
     "iso": "yes",
     "name": "nju.edu.cn",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.nju.edu.cn/archlinux/",
       "https://mirrors.nju.edu.cn/archlinux/",
@@ -631,7 +631,7 @@
     "iso": "yes",
     "name": "njupt.edu.cn",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://mirrors.njupt.edu.cn/archlinux/"]
   },
   {
@@ -639,7 +639,7 @@
     "iso": "yes",
     "name": "redrock.team",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.redrock.team/archlinux/",
       "https://mirror.redrock.team/archlinux/"
@@ -650,7 +650,7 @@
     "iso": "yes",
     "name": "shanghaitech.edu.cn",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.shanghaitech.edu.cn/archlinux/",
       "https://mirrors.shanghaitech.edu.cn/archlinux/"
@@ -661,7 +661,7 @@
     "iso": "yes",
     "name": "sjtug.sjtu.edu.cn",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://mirrors.sjtug.sjtu.edu.cn/archlinux/"]
   },
   {
@@ -669,7 +669,7 @@
     "iso": "yes",
     "name": "tuna.tsinghua.edu.cn",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://mirrors.tuna.tsinghua.edu.cn/archlinux/",
       "https://mirrors.tuna.tsinghua.edu.cn/archlinux/",
@@ -681,7 +681,7 @@
     "iso": "yes",
     "name": "ustc.edu.cn",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://mirrors.ustc.edu.cn/archlinux/",
       "https://mirrors.ustc.edu.cn/archlinux/",
@@ -693,7 +693,7 @@
     "iso": "yes",
     "name": "wsyu.edu.cn",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.wsyu.edu.cn/archlinux/",
       "https://mirrors.wsyu.edu.cn/archlinux/"
@@ -704,7 +704,7 @@
     "iso": "yes",
     "name": "xjtu.edu.cn",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://mirrors.xjtu.edu.cn/archlinux/"]
   },
   {
@@ -712,7 +712,7 @@
     "iso": "yes",
     "name": "zju.edu.cn",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://mirrors.zju.edu.cn/archlinux/"]
   },
   {
@@ -720,7 +720,7 @@
     "iso": "yes",
     "name": "udenar.edu.co",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.udenar.edu.co/archlinux/",
       "rsync://mirrors.udenar.edu.co/archlinux/"
@@ -731,7 +731,7 @@
     "iso": "yes",
     "name": "iskon.hr",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://archlinux.iskon.hr/"]
   },
   {
@@ -739,7 +739,7 @@
     "iso": "yes",
     "name": "dkm.cz",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.dkm.cz/archlinux/",
       "https://mirror.dkm.cz/archlinux/",
@@ -751,7 +751,7 @@
     "iso": "yes",
     "name": "fi.muni.cz",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://ftp.fi.muni.cz/pub/linux/arch/",
       "rsync://ftp.fi.muni.cz/pub/linux/arch/"
@@ -762,7 +762,7 @@
     "iso": "yes",
     "name": "gluttony.sin.cvut.cz",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://gluttony.sin.cvut.cz/arch/",
       "https://gluttony.sin.cvut.cz/arch/",
@@ -774,7 +774,7 @@
     "iso": "yes",
     "name": "it4i.cz",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.it4i.cz/arch/",
       "https://mirror.it4i.cz/arch/",
@@ -786,7 +786,7 @@
     "iso": "yes",
     "name": "nic.cz",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.nic.cz/archlinux/",
       "https://mirrors.nic.cz/archlinux/",
@@ -798,7 +798,7 @@
     "iso": "yes",
     "name": "sh.cvut.cz",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://ftp.sh.cvut.cz/arch/",
       "https://ftp.sh.cvut.cz/arch/",
@@ -810,7 +810,7 @@
     "iso": "yes",
     "name": "vpsfree.cz",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://mirror.vpsfree.cz/archlinux/"]
   },
   {
@@ -818,7 +818,7 @@
     "iso": "yes",
     "name": "dotsrc.org",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://mirrors.dotsrc.org/archlinux/",
       "https://mirrors.dotsrc.org/archlinux/",
@@ -830,7 +830,7 @@
     "iso": "yes",
     "name": "one.com",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://mirror.one.com/archlinux/",
       "https://mirror.one.com/archlinux/",
@@ -842,7 +842,7 @@
     "iso": "yes",
     "name": "safe-con.dk",
     "protocols": ["https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "https://mirror.safe-con.dk/archlinux/",
       "rsync://mirror.safe-con.dk/archlinux/"
@@ -853,7 +853,7 @@
     "iso": "yes",
     "name": "cedia.org.ec",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.cedia.org.ec/archlinux/",
       "rsync://mirror.cedia.org.ec/archlinux/"
@@ -864,7 +864,7 @@
     "iso": "yes",
     "name": "espoch.edu.ec",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.espoch.edu.ec/archlinux/",
       "rsync://mirror.espoch.edu.ec/archlinux/"
@@ -875,7 +875,7 @@
     "iso": "yes",
     "name": "uta.edu.ec",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.uta.edu.ec/archlinux/",
       "rsync://mirror.uta.edu.ec/archlinux/"
@@ -886,7 +886,7 @@
     "iso": "yes",
     "name": "cspacehostings.com",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.cspacehostings.com/archlinux/",
       "https://mirror.cspacehostings.com/archlinux/",
@@ -898,7 +898,7 @@
     "iso": "yes",
     "name": "repo.br.ee",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://repo.br.ee/arch/",
       "https://repo.br.ee/arch/",
@@ -910,7 +910,7 @@
     "iso": "yes",
     "name": "xtom.ee",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://mirrors.xtom.ee/archlinux/",
       "https://mirrors.xtom.ee/archlinux/",
@@ -922,7 +922,7 @@
     "iso": "yes",
     "name": "arch.mcstrugs.org",
     "protocols": ["https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://arch.mcstrugs.org/", "rsync://arch.mcstrugs.org/"]
   },
   {
@@ -930,7 +930,7 @@
     "iso": "yes",
     "name": "arctic.lol",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.arctic.lol/ArchMirror/",
       "https://mirror.arctic.lol/ArchMirror/"
@@ -941,7 +941,7 @@
     "iso": "yes",
     "name": "far.fi",
     "protocols": ["http", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": ["http://arch.mirror.far.fi/", "rsync://arch.mirror.far.fi/"]
   },
   {
@@ -949,7 +949,7 @@
     "iso": "yes",
     "name": "hosthink.net",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://mirror.hosthink.net/archlinux/"]
   },
   {
@@ -957,7 +957,7 @@
     "iso": "yes",
     "name": "kyberorg.fi",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://arch.kyberorg.fi/",
       "https://arch.kyberorg.fi/",
@@ -969,7 +969,7 @@
     "iso": "yes",
     "name": "mirror.5i.fi",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.5i.fi/archlinux/",
       "https://mirror.5i.fi/archlinux/",
@@ -981,7 +981,7 @@
     "iso": "yes",
     "name": "srv.fail",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://mirror.srv.fail/archlinux/"]
   },
   {
@@ -989,7 +989,7 @@
     "iso": "yes",
     "name": "wuki.li",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.wuki.li/archlinux/",
       "https://mirror.wuki.li/archlinux/",
@@ -1001,7 +1001,7 @@
     "iso": "yes",
     "name": "yhtez.xyz",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://arch.yhtez.xyz/",
       "https://arch.yhtez.xyz/",
@@ -1013,7 +1013,7 @@
     "iso": "yes",
     "name": "archlinux.ikoula.com",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://mirror.archlinux.ikoula.com/archlinux/"]
   },
   {
@@ -1021,7 +1021,7 @@
     "iso": "yes",
     "name": "benatherton.com",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://archlinux.mirrors.benatherton.com/"]
   },
   {
@@ -1029,7 +1029,7 @@
     "iso": "yes",
     "name": "cyberbits.eu",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.cyberbits.eu/archlinux/",
       "https://mirror.cyberbits.eu/archlinux/",
@@ -1041,7 +1041,7 @@
     "iso": "yes",
     "name": "datagr.am",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://archlinux.datagr.am/", "rsync://archlinux.datagr.am/"]
   },
   {
@@ -1049,7 +1049,7 @@
     "iso": "yes",
     "name": "eric.ovh",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://mirrors.eric.ovh/arch/"]
   },
   {
@@ -1057,7 +1057,7 @@
     "iso": "yes",
     "name": "gandi.net",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.gandi.net/archlinux/",
       "https://mirrors.gandi.net/archlinux/"
@@ -1068,7 +1068,7 @@
     "iso": "yes",
     "name": "hogwarts.fr",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://archmirror.hogwarts.fr/",
       "https://archmirror.hogwarts.fr/"
@@ -1079,7 +1079,7 @@
     "iso": "yes",
     "name": "ibakerserver.pt",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://mirror.ibakerserver.pt/Arch/"]
   },
   {
@@ -1087,7 +1087,7 @@
     "iso": "yes",
     "name": "ibcp.fr",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://mirror.ibcp.fr/pub/archlinux/"]
   },
   {
@@ -1095,7 +1095,7 @@
     "iso": "yes",
     "name": "jordanrey.me",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.jordanrey.me/archlinux/",
       "https://mirror.jordanrey.me/archlinux/"
@@ -1106,7 +1106,7 @@
     "iso": "yes",
     "name": "juline.tech",
     "protocols": ["https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://arch.juline.tech/", "rsync://arch.juline.tech/"]
   },
   {
@@ -1114,7 +1114,7 @@
     "iso": "yes",
     "name": "labhouse.fr",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirroir.labhouse.fr/arch/",
       "https://mirroir.labhouse.fr/arch/",
@@ -1126,7 +1126,7 @@
     "iso": "yes",
     "name": "lastmikoi.net",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.lastmikoi.net/archlinux/",
       "rsync://mirror.lastmikoi.net/archlinux/"
@@ -1137,7 +1137,7 @@
     "iso": "no",
     "name": "louifox.house",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://arch-mirror.cloud.louifox.house/"]
   },
   {
@@ -1145,7 +1145,7 @@
     "iso": "yes",
     "name": "mailtunnel.eu",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://archlinux.mailtunnel.eu/",
       "https://archlinux.mailtunnel.eu/",
@@ -1157,7 +1157,7 @@
     "iso": "yes",
     "name": "mir.archlinux.fr",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://mir.archlinux.fr/"]
   },
   {
@@ -1165,7 +1165,7 @@
     "iso": "yes",
     "name": "mirrors.celianvdb.fr",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.celianvdb.fr/archlinux/",
       "https://mirrors.celianvdb.fr/archlinux/",
@@ -1177,7 +1177,7 @@
     "iso": "yes",
     "name": "nimukaito.net",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://arch.nimukaito.net/",
       "https://arch.nimukaito.net/",
@@ -1189,7 +1189,7 @@
     "iso": "yes",
     "name": "oldsql.cc",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.oldsql.cc/archlinux/",
       "https://mirror.oldsql.cc/archlinux/"
@@ -1200,7 +1200,7 @@
     "iso": "yes",
     "name": "ovh.net",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://archlinux.mirrors.ovh.net/archlinux/"]
   },
   {
@@ -1208,7 +1208,7 @@
     "iso": "yes",
     "name": "rezopole.net",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://archlinux.rezopole.net/",
       "rsync://archlinux.rezopole.net/"
@@ -1219,7 +1219,7 @@
     "iso": "yes",
     "name": "slaanesh.org",
     "protocols": ["https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "https://mirrors.slaanesh.org/archlinux/",
       "rsync://mirrors.slaanesh.org/archlinux/"
@@ -1230,7 +1230,7 @@
     "iso": "yes",
     "name": "spaceint.fr",
     "protocols": ["https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "https://mirror.spaceint.fr/archlinux/",
       "rsync://mirror.spaceint.fr/archlinux/"
@@ -1241,7 +1241,7 @@
     "iso": "yes",
     "name": "standaloneinstaller.com",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.standaloneinstaller.com/archlinux/",
       "rsync://mirrors.standaloneinstaller.com/archlinux/"
@@ -1252,7 +1252,7 @@
     "iso": "yes",
     "name": "sysa.tech",
     "protocols": ["https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "https://mirror.sysa.tech/archlinux/",
       "rsync://mirror.sysa.tech/archlinux/"
@@ -1263,7 +1263,7 @@
     "iso": "yes",
     "name": "thekinrar.fr",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://mirror.thekinrar.fr/archlinux/"]
   },
   {
@@ -1271,7 +1271,7 @@
     "iso": "yes",
     "name": "theo546.fr",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://mirror.theo546.fr/archlinux/",
       "https://mirror.theo546.fr/archlinux/",
@@ -1283,7 +1283,7 @@
     "iso": "yes",
     "name": "u-strasbg.fr",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://ftp.u-strasbg.fr/linux/distributions/archlinux/"]
   },
   {
@@ -1291,7 +1291,7 @@
     "iso": "yes",
     "name": "wormhole.eu",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://mirror.wormhole.eu/archlinux/"]
   },
   {
@@ -1299,7 +1299,7 @@
     "iso": "yes",
     "name": "wptheme.fr",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirroir.wptheme.fr/archlinux/",
       "https://mirroir.wptheme.fr/archlinux/",
@@ -1311,7 +1311,7 @@
     "iso": "yes",
     "name": "yourlabs.org",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://arch.yourlabs.org/", "https://arch.yourlabs.org/"]
   },
   {
@@ -1319,7 +1319,7 @@
     "iso": "yes",
     "name": "grena.ge",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://archlinux.grena.ge/", "https://archlinux.grena.ge/"]
   },
   {
@@ -1327,7 +1327,7 @@
     "iso": "no",
     "name": "23m.com",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://mirror.23m.com/archlinux/",
       "https://mirror.23m.com/archlinux/",
@@ -1339,7 +1339,7 @@
     "iso": "yes",
     "name": "agdsn.de",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://ftp.agdsn.de/pub/mirrors/archlinux/",
       "https://ftp.agdsn.de/pub/mirrors/archlinux/"
@@ -1350,7 +1350,7 @@
     "iso": "no",
     "name": "appuals.com",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://appuals.com/archlinux/"]
   },
   {
@@ -1358,7 +1358,7 @@
     "iso": "yes",
     "name": "artfiles.org",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://artfiles.org/archlinux.org/"]
   },
   {
@@ -1366,7 +1366,7 @@
     "iso": "no",
     "name": "bethselamin.de",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://mirror.bethselamin.de/"]
   },
   {
@@ -1374,7 +1374,7 @@
     "iso": "yes",
     "name": "clientvps.com",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.clientvps.com/archlinux/",
       "https://mirror.clientvps.com/archlinux/",
@@ -1386,7 +1386,7 @@
     "iso": "yes",
     "name": "cmt.de",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.cmt.de/archlinux/",
       "https://mirror.cmt.de/archlinux/"
@@ -1397,7 +1397,7 @@
     "iso": "yes",
     "name": "codefionn.eu",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://os.codefionn.eu/archlinux/",
       "https://os.codefionn.eu/archlinux/",
@@ -1409,7 +1409,7 @@
     "iso": "yes",
     "name": "dogado.de",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://mirror.dogado.de/archlinux/"]
   },
   {
@@ -1417,7 +1417,7 @@
     "iso": "yes",
     "name": "f4st.host",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://mirror.f4st.host/archlinux/",
       "https://mirror.f4st.host/archlinux/",
@@ -1429,7 +1429,7 @@
     "iso": "yes",
     "name": "fau.de",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://ftp.fau.de/archlinux/",
       "https://ftp.fau.de/archlinux/",
@@ -1441,7 +1441,7 @@
     "iso": "yes",
     "name": "fef.moe",
     "protocols": ["https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://pkg.fef.moe/archlinux/", "rsync://pkg.fef.moe/archlinux/"]
   },
   {
@@ -1449,7 +1449,7 @@
     "iso": "yes",
     "name": "fem.tu-ilmenau.de",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://dist-mirror.fem.tu-ilmenau.de/archlinux/"]
   },
   {
@@ -1457,7 +1457,7 @@
     "iso": "no",
     "name": "fsrv.services",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.fsrv.services/archlinux/",
       "https://mirror.fsrv.services/archlinux/"
@@ -1468,7 +1468,7 @@
     "iso": "yes",
     "name": "gnomus.de",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://mirror.gnomus.de/"]
   },
   {
@@ -1476,7 +1476,7 @@
     "iso": "yes",
     "name": "gutscheindrache.com",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://www.gutscheindrache.com/mirror/archlinux/"]
   },
   {
@@ -1484,7 +1484,7 @@
     "iso": "yes",
     "name": "gwdg.de",
     "protocols": ["http", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://ftp.gwdg.de/pub/linux/archlinux/",
       "rsync://ftp.gwdg.de/pub/linux/archlinux/"
@@ -1495,7 +1495,7 @@
     "iso": "yes",
     "name": "homeinfo.de",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://archlinux.homeinfo.de/"]
   },
   {
@@ -1503,7 +1503,7 @@
     "iso": "yes",
     "name": "honkgong.info",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://archlinux.honkgong.info/",
       "rsync://archlinux.honkgong.info/"
@@ -1514,7 +1514,7 @@
     "iso": "yes",
     "name": "hosteurope.de",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://ftp.hosteurope.de/mirror/ftp.archlinux.org/",
       "rsync://ftp.hosteurope.de/mirror/ftp.archlinux.org/"
@@ -1525,7 +1525,7 @@
     "iso": "yes",
     "name": "hs-esslingen.de",
     "protocols": ["http", "rsync"],
-    "tier": "untiered",
+    "tier": -1,
     "urls": [
       "http://ftp-stud.hs-esslingen.de/pub/Mirrors/archlinux/",
       "rsync://ftp-stud.hs-esslingen.de/pub/Mirrors/archlinux/"
@@ -1536,7 +1536,7 @@
     "iso": "yes",
     "name": "informatik.tu-freiberg.de",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.informatik.tu-freiberg.de/arch/",
       "https://mirror.informatik.tu-freiberg.de/arch/"
@@ -1547,7 +1547,7 @@
     "iso": "yes",
     "name": "iphh.net",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://archlinux.mirror.iphh.net/",
       "rsync://archlinux.mirror.iphh.net/"
@@ -1558,7 +1558,7 @@
     "iso": "yes",
     "name": "iusearchbtw.nl",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://mirror.iusearchbtw.nl/"]
   },
   {
@@ -1566,7 +1566,7 @@
     "iso": "yes",
     "name": "janbruckner.de",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.janbruckner.de/archlinux/",
       "https://mirrors.janbruckner.de/archlinux/",
@@ -1578,7 +1578,7 @@
     "iso": "yes",
     "name": "jensgutermuth.de",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://arch.jensgutermuth.de/", "https://arch.jensgutermuth.de/"]
   },
   {
@@ -1586,7 +1586,7 @@
     "iso": "yes",
     "name": "kumi.systems",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.kumi.systems/archlinux/",
       "https://mirror.kumi.systems/archlinux/",
@@ -1598,7 +1598,7 @@
     "iso": "yes",
     "name": "metalgamer.eu",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.metalgamer.eu/archlinux/",
       "https://mirror.metalgamer.eu/archlinux/"
@@ -1609,7 +1609,7 @@
     "iso": "yes",
     "name": "mikrogravitation.org",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.mikrogravitation.org/archlinux/",
       "https://mirror.mikrogravitation.org/archlinux/"
@@ -1620,7 +1620,7 @@
     "iso": "yes",
     "name": "mirror.lcarilla.de",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.lcarilla.de/archlinux/",
       "https://mirror.lcarilla.de/archlinux/",
@@ -1632,7 +1632,7 @@
     "iso": "yes",
     "name": "moson.org",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.moson.org/arch/",
       "https://mirror.moson.org/arch/",
@@ -1644,7 +1644,7 @@
     "iso": "yes",
     "name": "n-ix.net",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.n-ix.net/archlinux/",
       "https://mirrors.n-ix.net/archlinux/"
@@ -1655,7 +1655,7 @@
     "iso": "yes",
     "name": "netcologne.de",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.netcologne.de/archlinux/",
       "https://mirror.netcologne.de/archlinux/",
@@ -1667,7 +1667,7 @@
     "iso": "yes",
     "name": "niyawe.de",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.niyawe.de/archlinux/",
       "https://mirrors.niyawe.de/archlinux/",
@@ -1679,7 +1679,7 @@
     "iso": "yes",
     "name": "orbit-os.com",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.orbit-os.com/archlinux/",
       "https://mirror.orbit-os.com/archlinux/",
@@ -1691,7 +1691,7 @@
     "iso": "yes",
     "name": "oth-regensburg.de",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://packages.oth-regensburg.de/archlinux/",
       "https://packages.oth-regensburg.de/archlinux/",
@@ -1703,7 +1703,7 @@
     "iso": "no",
     "name": "pagenotfound.de",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.pagenotfound.de/archlinux/",
       "https://mirror.pagenotfound.de/archlinux/",
@@ -1715,7 +1715,7 @@
     "iso": "yes",
     "name": "phinau.de",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://arch.phinau.de/", "https://arch.phinau.de/"]
   },
   {
@@ -1723,7 +1723,7 @@
     "iso": "yes",
     "name": "pseudoform.org",
     "protocols": ["https", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": ["https://mirror.pseudoform.org/", "rsync://mirror.pseudoform.org/"]
   },
   {
@@ -1731,7 +1731,7 @@
     "iso": "yes",
     "name": "ratenzahlung.de",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://www.ratenzahlung.de/mirror/archlinux/"]
   },
   {
@@ -1739,7 +1739,7 @@
     "iso": "yes",
     "name": "richard-neumann.de",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://archlinux.richard-neumann.de/"]
   },
   {
@@ -1747,7 +1747,7 @@
     "iso": "yes",
     "name": "rwth-aachen.de",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://ftp.halifax.rwth-aachen.de/archlinux/",
       "https://ftp.halifax.rwth-aachen.de/archlinux/",
@@ -1759,7 +1759,7 @@
     "iso": "yes",
     "name": "rz.rub.de",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://linux.rz.rub.de/archlinux/"]
   },
   {
@@ -1767,7 +1767,7 @@
     "iso": "yes",
     "name": "satis-faction.de",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.satis-faction.de/archlinux/",
       "https://mirror.satis-faction.de/archlinux/"
@@ -1778,7 +1778,7 @@
     "iso": "yes",
     "name": "selfnet.de",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://mirror.selfnet.de/archlinux/",
       "https://mirror.selfnet.de/archlinux/",
@@ -1790,7 +1790,7 @@
     "iso": "yes",
     "name": "spline.inf.fu-berlin.de",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://ftp.spline.inf.fu-berlin.de/mirrors/archlinux/",
       "https://ftp.spline.inf.fu-berlin.de/mirrors/archlinux/",
@@ -1802,7 +1802,7 @@
     "iso": "yes",
     "name": "sunred.org",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.sunred.org/archlinux/",
       "https://mirror.sunred.org/archlinux/",
@@ -1814,7 +1814,7 @@
     "iso": "yes",
     "name": "thaller.ws",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://archlinux.thaller.ws/",
       "https://archlinux.thaller.ws/",
@@ -1826,7 +1826,7 @@
     "iso": "yes",
     "name": "tu-chemnitz.de",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://ftp.tu-chemnitz.de/pub/linux/archlinux/"]
   },
   {
@@ -1834,7 +1834,7 @@
     "iso": "yes",
     "name": "ubrco.de",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.ubrco.de/archlinux/",
       "https://mirror.ubrco.de/archlinux/",
@@ -1846,7 +1846,7 @@
     "iso": "no",
     "name": "undisclose.de",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.undisclose.de/archlinux/",
       "https://mirror.undisclose.de/archlinux/",
@@ -1858,7 +1858,7 @@
     "iso": "yes",
     "name": "uni-bayreuth.de",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://ftp.uni-bayreuth.de/linux/archlinux/"]
   },
   {
@@ -1866,7 +1866,7 @@
     "iso": "yes",
     "name": "uni-hannover.de",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://ftp.uni-hannover.de/archlinux/"]
   },
   {
@@ -1874,7 +1874,7 @@
     "iso": "yes",
     "name": "uni-kl.de",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://ftp.uni-kl.de/pub/linux/archlinux/",
       "rsync://ftp.uni-kl.de/pub/linux/archlinux/"
@@ -1885,7 +1885,7 @@
     "iso": "yes",
     "name": "united-gameserver.de",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.united-gameserver.de/archlinux/",
       "rsync://mirror.united-gameserver.de/archlinux/"
@@ -1896,7 +1896,7 @@
     "iso": "yes",
     "name": "unixpeople.org",
     "protocols": ["https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://arch.unixpeople.org/", "rsync://arch.unixpeople.org/"]
   },
   {
@@ -1904,7 +1904,7 @@
     "iso": "yes",
     "name": "wrz.de",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://ftp.wrz.de/pub/archlinux/",
       "https://ftp.wrz.de/pub/archlinux/",
@@ -1916,7 +1916,7 @@
     "iso": "yes",
     "name": "wtnet.de",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.wtnet.de/archlinux/",
       "https://mirror.wtnet.de/archlinux/"
@@ -1927,7 +1927,7 @@
     "iso": "yes",
     "name": "xtom.de",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://mirrors.xtom.de/archlinux/",
       "https://mirrors.xtom.de/archlinux/",
@@ -1939,7 +1939,7 @@
     "iso": "yes",
     "name": "zachlge.org",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://arch.mirror.zachlge.org/",
       "https://arch.mirror.zachlge.org/"
@@ -1950,7 +1950,7 @@
     "iso": "yes",
     "name": "cc.uoc.gr",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://ftp.cc.uoc.gr/mirrors/linux/archlinux/"]
   },
   {
@@ -1958,7 +1958,7 @@
     "iso": "yes",
     "name": "greeklug.gr",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://repo.greeklug.gr/data/pub/linux/archlinux/"]
   },
   {
@@ -1966,7 +1966,7 @@
     "iso": "yes",
     "name": "myaegean.gr",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://mirrors.myaegean.gr/linux/archlinux/"]
   },
   {
@@ -1974,7 +1974,7 @@
     "iso": "yes",
     "name": "ntua.gr",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://ftp.ntua.gr/pub/linux/archlinux/",
       "rsync://ftp.ntua.gr/pub/linux/archlinux/"
@@ -1985,7 +1985,7 @@
     "iso": "yes",
     "name": "otenet.gr",
     "protocols": ["http"],
-    "tier": "untiered",
+    "tier": -1,
     "urls": ["http://ftp.otenet.gr/linux/archlinux/"]
   },
   {
@@ -1993,7 +1993,7 @@
     "iso": "yes",
     "name": "wtako.net",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://arch-mirror.wtako.net/"]
   },
   {
@@ -2001,7 +2001,7 @@
     "iso": "yes",
     "name": "xtom.com.hk",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://mirror.xtom.com.hk/archlinux/",
       "https://mirror.xtom.com.hk/archlinux/",
@@ -2013,7 +2013,7 @@
     "iso": "yes",
     "name": "ek-cer.hu",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://ftp.ek-cer.hu/pub/mirrors/ftp.archlinux.org/"]
   },
   {
@@ -2021,7 +2021,7 @@
     "iso": "no",
     "name": "hbit.sztaki.hu",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://archmirror.hbit.sztaki.hu/archlinux/"]
   },
   {
@@ -2029,7 +2029,7 @@
     "iso": "yes",
     "name": "quantum-mirror.hu",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://nova.quantum-mirror.hu/mirrors/pub/archlinux/",
       "https://nova.quantum-mirror.hu/mirrors/pub/archlinux/",
@@ -2041,7 +2041,7 @@
     "iso": "yes",
     "name": "system.is",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.system.is/arch/",
       "https://mirror.system.is/arch/",
@@ -2053,7 +2053,7 @@
     "iso": "yes",
     "name": "4v1.in",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.4v1.in/archlinux/",
       "https://mirror.4v1.in/archlinux/",
@@ -2065,7 +2065,7 @@
     "iso": "yes",
     "name": "abhy.me",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://mirrors.abhy.me/archlinux/"]
   },
   {
@@ -2073,7 +2073,7 @@
     "iso": "yes",
     "name": "albony.xyz",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://mirror.albony.xyz/archlinux/"]
   },
   {
@@ -2081,7 +2081,7 @@
     "iso": "yes",
     "name": "cse.iitk.ac.in",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://mirror.cse.iitk.ac.in/archlinux/"]
   },
   {
@@ -2089,7 +2089,7 @@
     "iso": "yes",
     "name": "garudalinux.org",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://in-mirror.garudalinux.org/archlinux/",
       "https://in-mirror.garudalinux.org/archlinux/"
@@ -2100,7 +2100,7 @@
     "iso": "yes",
     "name": "mirror.net.in",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://archlinux.mirror.net.in/archlinux/",
       "https://archlinux.mirror.net.in/archlinux/"
@@ -2111,7 +2111,7 @@
     "iso": "yes",
     "name": "mirrors.vishnetwork.in",
     "protocols": ["https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "https://mirrors.vishnetwork.in/archlinux/",
       "rsync://mirrors.vishnetwork.in/archlinux/"
@@ -2122,7 +2122,7 @@
     "iso": "yes",
     "name": "nxtgen.com",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.nxtgen.com/archlinux-mirror/",
       "https://mirrors.nxtgen.com/archlinux-mirror/"
@@ -2133,7 +2133,7 @@
     "iso": "yes",
     "name": "piconets.webwerks.in",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.piconets.webwerks.in/archlinux-mirror/",
       "https://mirrors.piconets.webwerks.in/archlinux-mirror/"
@@ -2144,7 +2144,7 @@
     "iso": "yes",
     "name": "sahil.world",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.sahil.world/archlinux/",
       "https://mirror.sahil.world/archlinux/"
@@ -2155,7 +2155,7 @@
     "iso": "yes",
     "name": "cloudweeb.com",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.cloudweeb.com/archlinux/",
       "rsync://mirror.cloudweeb.com/archlinux/"
@@ -2166,7 +2166,7 @@
     "iso": "yes",
     "name": "faizuladib.com",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://mirror.faizuladib.com/archlinux/"]
   },
   {
@@ -2174,7 +2174,7 @@
     "iso": "yes",
     "name": "gi.co.id",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.gi.co.id/archlinux/",
       "https://mirror.gi.co.id/archlinux/",
@@ -2186,7 +2186,7 @@
     "iso": "yes",
     "name": "jagoanhosting.com",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://vpsmurah.jagoanhosting.com/archlinux/",
       "https://vpsmurah.jagoanhosting.com/archlinux/",
@@ -2198,7 +2198,7 @@
     "iso": "yes",
     "name": "kebo.pens.ac.id",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://kebo.pens.ac.id/archlinux/"]
   },
   {
@@ -2206,7 +2206,7 @@
     "iso": "yes",
     "name": "labkom.id",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.labkom.id/archlinux/",
       "rsync://mirror.labkom.id/archlinux/"
@@ -2217,7 +2217,7 @@
     "iso": "yes",
     "name": "mirror.ditatompel.com",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.ditatompel.com/archlinux/",
       "https://mirror.ditatompel.com/archlinux/"
@@ -2228,7 +2228,7 @@
     "iso": "yes",
     "name": "papua.go.id",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.papua.go.id/archlinux/",
       "https://mirror.papua.go.id/archlinux/",
@@ -2240,7 +2240,7 @@
     "iso": "yes",
     "name": "poliwangi.ac.id",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://mirror.poliwangi.ac.id/archlinux/"]
   },
   {
@@ -2248,7 +2248,7 @@
     "iso": "yes",
     "name": "repository.id",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.repository.id/archlinux/",
       "https://mirror.repository.id/archlinux/",
@@ -2260,7 +2260,7 @@
     "iso": "yes",
     "name": "suro.ubaya.ac.id",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://suro.ubaya.ac.id/archlinux/"]
   },
   {
@@ -2268,7 +2268,7 @@
     "iso": "yes",
     "name": "telkomuniversity.ac.id",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.telkomuniversity.ac.id/archlinux/",
       "https://mirror.telkomuniversity.ac.id/archlinux/"
@@ -2279,7 +2279,7 @@
     "iso": "no",
     "name": "arvancloud.com",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.arvancloud.com/archlinux/",
       "https://mirror.arvancloud.com/archlinux/"
@@ -2290,7 +2290,7 @@
     "iso": "yes",
     "name": "bardia.tech",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.bardia.tech/archlinux/",
       "https://mirror.bardia.tech/archlinux/"
@@ -2301,7 +2301,7 @@
     "iso": "no",
     "name": "hostiran.ir",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.hostiran.ir/archlinux/",
       "https://mirror.hostiran.ir/archlinux/"
@@ -2312,7 +2312,7 @@
     "iso": "yes",
     "name": "iut.ac.ir",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://repo.iut.ac.ir/repo/archlinux/"]
   },
   {
@@ -2320,7 +2320,7 @@
     "iso": "yes",
     "name": "nak-mci.ir",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://mirror.nak-mci.ir/arch/"]
   },
   {
@@ -2328,7 +2328,7 @@
     "iso": "yes",
     "name": "heanet.ie",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://ftp.heanet.ie/mirrors/ftp.archlinux.org/",
       "https://ftp.heanet.ie/mirrors/ftp.archlinux.org/"
@@ -2339,7 +2339,7 @@
     "iso": "yes",
     "name": "interhost.co.il",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://archlinux.interhost.co.il/",
       "https://archlinux.interhost.co.il/",
@@ -2351,7 +2351,7 @@
     "iso": "yes",
     "name": "isoc.org.il",
     "protocols": ["http", "https"],
-    "tier": "untiered",
+    "tier": -1,
     "urls": [
       "http://mirror.isoc.org.il/pub/archlinux/",
       "https://mirror.isoc.org.il/pub/archlinux/"
@@ -2362,7 +2362,7 @@
     "iso": "yes",
     "name": "mivzakim.net",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://archlinux.mivzakim.net/"]
   },
   {
@@ -2370,7 +2370,7 @@
     "iso": "yes",
     "name": "archmirror.it",
     "protocols": ["https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://archmirror.it/repos/", "rsync://archmirror.it/repos/"]
   },
   {
@@ -2378,7 +2378,7 @@
     "iso": "yes",
     "name": "garr.it",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://archlinux.mirror.garr.it/archlinux/"]
   },
   {
@@ -2386,7 +2386,7 @@
     "iso": "no",
     "name": "server24.net",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://archlinux.mirror.server24.net/",
       "https://archlinux.mirror.server24.net/"
@@ -2397,7 +2397,7 @@
     "iso": "yes",
     "name": "cat.net",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.cat.net/archlinux/",
       "https://mirrors.cat.net/archlinux/"
@@ -2408,7 +2408,7 @@
     "iso": "yes",
     "name": "ftp.tsukuba.wide.ad.jp",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://ftp.tsukuba.wide.ad.jp/Linux/archlinux/",
       "rsync://ftp.tsukuba.wide.ad.jp/Linux/archlinux/"
@@ -2419,7 +2419,7 @@
     "iso": "yes",
     "name": "jaist.ac.jp",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://ftp.jaist.ac.jp/pub/Linux/ArchLinux/",
       "https://ftp.jaist.ac.jp/pub/Linux/ArchLinux/",
@@ -2431,7 +2431,7 @@
     "iso": "yes",
     "name": "saebasol.org",
     "protocols": ["https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "https://mirror.saebasol.org/archlinux/",
       "rsync://mirror.saebasol.org/archlinux/"
@@ -2442,7 +2442,7 @@
     "iso": "yes",
     "name": "hoster.kz",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.hoster.kz/archlinux/",
       "https://mirror.hoster.kz/archlinux/",
@@ -2454,7 +2454,7 @@
     "iso": "yes",
     "name": "ps.kz",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.ps.kz/archlinux/",
       "https://mirror.ps.kz/archlinux/",
@@ -2466,7 +2466,7 @@
     "iso": "yes",
     "name": "liquidtelecom.com",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://archlinux.mirror.liquidtelecom.com/",
       "https://archlinux.mirror.liquidtelecom.com/",
@@ -2478,7 +2478,7 @@
     "iso": "yes",
     "name": "koyanet.lv",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://archlinux.koyanet.lv/archlinux/",
       "https://archlinux.koyanet.lv/archlinux/",
@@ -2490,7 +2490,7 @@
     "iso": "yes",
     "name": "atviras.lt",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://mirrors.atviras.lt/archlinux/",
       "https://mirrors.atviras.lt/archlinux/",
@@ -2502,7 +2502,7 @@
     "iso": "yes",
     "name": "ims.nksc.lt",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.ims.nksc.lt/archlinux/",
       "https://mirrors.ims.nksc.lt/archlinux/",
@@ -2514,7 +2514,7 @@
     "iso": "yes",
     "name": "archmirror.xyz",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://archmirror.xyz/archlinux/",
       "https://archmirror.xyz/archlinux/",
@@ -2526,7 +2526,7 @@
     "iso": "yes",
     "name": "root.lu",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://archlinux.mirror.root.lu/"]
   },
   {
@@ -2534,7 +2534,7 @@
     "iso": "yes",
     "name": "archlinux-mirror.cloud.mu",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://archlinux-mirror.cloud.mu/",
       "https://archlinux-mirror.cloud.mu/"
@@ -2545,7 +2545,7 @@
     "iso": "yes",
     "name": "jsc.mx",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://arch.jsc.mx/"]
   },
   {
@@ -2553,7 +2553,7 @@
     "iso": "yes",
     "name": "hacktegic.com",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://md.mirrors.hacktegic.com/archlinux/",
       "https://md.mirrors.hacktegic.com/archlinux/"
@@ -2564,7 +2564,7 @@
     "iso": "yes",
     "name": "ihost.md",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://mirror.ihost.md/archlinux/",
       "https://mirror.ihost.md/archlinux/",
@@ -2576,7 +2576,7 @@
     "iso": "yes",
     "name": "mangohost.net",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.mangohost.net/archlinux/",
       "https://mirror.mangohost.net/archlinux/",
@@ -2588,7 +2588,7 @@
     "iso": "yes",
     "name": "qontinuum.space",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.qontinuum.space/archlinux/",
       "https://mirrors.qontinuum.space/archlinux/",
@@ -2600,7 +2600,7 @@
     "iso": "yes",
     "name": "cj2.nl",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.cj2.nl/archlinux/",
       "https://mirror.cj2.nl/archlinux/",
@@ -2612,7 +2612,7 @@
     "iso": "yes",
     "name": "daan.vodka",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://mirrors.daan.vodka/archlinux/"]
   },
   {
@@ -2620,7 +2620,7 @@
     "iso": "yes",
     "name": "evoluso.com",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://mirrors.evoluso.com/archlinux/"]
   },
   {
@@ -2628,7 +2628,7 @@
     "iso": "yes",
     "name": "i3d.net",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.i3d.net/pub/archlinux/",
       "https://mirror.i3d.net/pub/archlinux/",
@@ -2640,7 +2640,7 @@
     "iso": "no",
     "name": "jeweet.net",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://arch.jeweet.net/"]
   },
   {
@@ -2648,7 +2648,7 @@
     "iso": "yes",
     "name": "lavatech.top",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://arch.mirrors.lavatech.top/",
       "https://arch.mirrors.lavatech.top/"
@@ -2659,7 +2659,7 @@
     "iso": "yes",
     "name": "liteserver.nl",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://archlinux.mirror.liteserver.nl/",
       "https://archlinux.mirror.liteserver.nl/",
@@ -2671,7 +2671,7 @@
     "iso": "yes",
     "name": "lyrahosting.com",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.lyrahosting.com/archlinux/",
       "https://mirror.lyrahosting.com/archlinux/"
@@ -2682,7 +2682,7 @@
     "iso": "no",
     "name": "mijn.host",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.mijn.host/archlinux/",
       "https://mirror.mijn.host/archlinux/"
@@ -2693,7 +2693,7 @@
     "iso": "yes",
     "name": "neostrada.nl",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.neostrada.nl/archlinux/",
       "https://mirror.neostrada.nl/archlinux/",
@@ -2705,7 +2705,7 @@
     "iso": "yes",
     "name": "nluug.nl",
     "protocols": ["http", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://ftp.nluug.nl/os/Linux/distr/archlinux/",
       "rsync://ftp.nluug.nl/os/Linux/distr/archlinux/"
@@ -2716,7 +2716,7 @@
     "iso": "yes",
     "name": "pcextreme.nl",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://archlinux.mirror.pcextreme.nl/",
       "https://archlinux.mirror.pcextreme.nl/",
@@ -2728,7 +2728,7 @@
     "iso": "yes",
     "name": "serverion.com",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.serverion.com/archlinux/",
       "https://mirror.serverion.com/archlinux/",
@@ -2740,7 +2740,7 @@
     "iso": "yes",
     "name": "snt.utwente.nl",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://ftp.snt.utwente.nl/pub/os/linux/archlinux/",
       "rsync://ftp.snt.utwente.nl/pub/os/linux/archlinux/"
@@ -2751,7 +2751,7 @@
     "iso": "yes",
     "name": "tarellia.net",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.tarellia.net/distr/archlinux/",
       "https://mirror.tarellia.net/distr/archlinux/",
@@ -2763,7 +2763,7 @@
     "iso": "yes",
     "name": "viflcraft.top",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.viflcraft.top/archlinux/",
       "https://mirrors.viflcraft.top/archlinux/"
@@ -2774,7 +2774,7 @@
     "iso": "yes",
     "name": "wearetriple.com",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://archlinux.mirror.wearetriple.com/",
       "https://archlinux.mirror.wearetriple.com/",
@@ -2786,7 +2786,7 @@
     "iso": "yes",
     "name": "webruimtehosting.nl",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror-archlinux.webruimtehosting.nl/",
       "https://mirror-archlinux.webruimtehosting.nl/"
@@ -2797,7 +2797,7 @@
     "iso": "yes",
     "name": "xtom.nl",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.xtom.nl/archlinux/",
       "https://mirrors.xtom.nl/archlinux/"
@@ -2808,7 +2808,7 @@
     "iso": "yes",
     "name": "lagoon.nc",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.lagoon.nc/pub/archlinux/",
       "rsync://mirror.lagoon.nc/pub/archlinux/"
@@ -2819,7 +2819,7 @@
     "iso": "yes",
     "name": "nautile.nc",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://archlinux.nautile.nc/archlinux/",
       "https://archlinux.nautile.nc/archlinux/",
@@ -2831,7 +2831,7 @@
     "iso": "yes",
     "name": "2degrees.nz",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.2degrees.nz/archlinux/",
       "https://mirror.2degrees.nz/archlinux/",
@@ -2843,7 +2843,7 @@
     "iso": "yes",
     "name": "fsmg.org.nz",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://mirror.fsmg.org.nz/archlinux/",
       "https://mirror.fsmg.org.nz/archlinux/",
@@ -2855,7 +2855,7 @@
     "iso": "yes",
     "name": "ourhome.kiwi",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://archlinux.ourhome.kiwi/"]
   },
   {
@@ -2863,7 +2863,7 @@
     "iso": "yes",
     "name": "smith.geek.nz",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.smith.geek.nz/archlinux/",
       "https://mirror.smith.geek.nz/archlinux/",
@@ -2875,7 +2875,7 @@
     "iso": "yes",
     "name": "arch.softver.org.mk",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://arch.softver.org.mk/archlinux/"]
   },
   {
@@ -2883,7 +2883,7 @@
     "iso": "yes",
     "name": "onevip.mk",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.onevip.mk/archlinux/",
       "rsync://mirror.onevip.mk/archlinux/"
@@ -2894,7 +2894,7 @@
     "iso": "yes",
     "name": "t-home.mk",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.t-home.mk/archlinux/",
       "https://mirror.t-home.mk/archlinux/",
@@ -2906,7 +2906,7 @@
     "iso": "yes",
     "name": "archlinux.no",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://mirror.archlinux.no/", "https://mirror.archlinux.no/"]
   },
   {
@@ -2914,7 +2914,7 @@
     "iso": "yes",
     "name": "archlinux.uib.no",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://archlinux.uib.no/"]
   },
   {
@@ -2922,7 +2922,7 @@
     "iso": "yes",
     "name": "lysakermoen.com",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://lysakermoen.com/Software/Linux/Mirrors/ArchLinux/",
       "https://lysakermoen.com/Software/Linux/Mirrors/ArchLinux/"
@@ -2933,7 +2933,7 @@
     "iso": "yes",
     "name": "neuf.no",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://mirror.neuf.no/archlinux/",
       "https://mirror.neuf.no/archlinux/",
@@ -2945,7 +2945,7 @@
     "iso": "yes",
     "name": "terrahost.no",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://mirror.terrahost.no/linux/archlinux/"]
   },
   {
@@ -2953,7 +2953,7 @@
     "iso": "yes",
     "name": "mirror.py",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://archlinux.mirror.py/archlinux/"]
   },
   {
@@ -2961,7 +2961,7 @@
     "iso": "yes",
     "name": "eloteam.tk",
     "protocols": ["https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "https://mirror.eloteam.tk/archlinux/",
       "rsync://mirror.eloteam.tk/archlinux/"
@@ -2972,7 +2972,7 @@
     "iso": "yes",
     "name": "icm.edu.pl",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://ftp.icm.edu.pl/pub/Linux/dist/archlinux/",
       "https://ftp.icm.edu.pl/pub/Linux/dist/archlinux/",
@@ -2984,7 +2984,7 @@
     "iso": "yes",
     "name": "juniorjpdj.pl",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.juniorjpdj.pl/archlinux/",
       "https://mirror.juniorjpdj.pl/archlinux/",
@@ -2996,7 +2996,7 @@
     "iso": "yes",
     "name": "midov.pl",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://arch.midov.pl/arch/", "https://arch.midov.pl/arch/"]
   },
   {
@@ -3004,7 +3004,7 @@
     "iso": "yes",
     "name": "onet.pl",
     "protocols": ["http", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://mirror.onet.pl/pub/mirrors/archlinux/",
       "rsync://mirror.onet.pl/pub/mirrors/archlinux/"
@@ -3015,7 +3015,7 @@
     "iso": "yes",
     "name": "piotrkosoft.net",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://piotrkosoft.net/pub/mirrors/ftp.archlinux.org/",
       "rsync://piotrkosoft.net/pub/mirrors/ftp.archlinux.org/"
@@ -3026,7 +3026,7 @@
     "iso": "yes",
     "name": "psnc.pl",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://ftp.psnc.pl/linux/archlinux/",
       "https://ftp.psnc.pl/linux/archlinux/"
@@ -3037,7 +3037,7 @@
     "iso": "yes",
     "name": "sakamoto.pl",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://arch.sakamoto.pl/", "https://arch.sakamoto.pl/"]
   },
   {
@@ -3045,7 +3045,7 @@
     "iso": "yes",
     "name": "skni.umcs.pl",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://repo.skni.umcs.pl/archlinux/",
       "https://repo.skni.umcs.pl/archlinux/",
@@ -3057,7 +3057,7 @@
     "iso": "yes",
     "name": "vectranet.pl",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://ftp.vectranet.pl/archlinux/",
       "rsync://ftp.vectranet.pl/archlinux/"
@@ -3068,7 +3068,7 @@
     "iso": "yes",
     "name": "glua.ua.pt",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://glua.ua.pt/pub/archlinux/",
       "https://glua.ua.pt/pub/archlinux/",
@@ -3080,7 +3080,7 @@
     "iso": "yes",
     "name": "mirrors.up.pt",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.up.pt/pub/archlinux/",
       "https://mirrors.up.pt/pub/archlinux/",
@@ -3092,7 +3092,7 @@
     "iso": "yes",
     "name": "rnl.tecnico.ulisboa.pt",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://ftp.rnl.tecnico.ulisboa.pt/pub/archlinux/",
       "https://ftp.rnl.tecnico.ulisboa.pt/pub/archlinux/",
@@ -3104,7 +3104,7 @@
     "iso": "yes",
     "name": "chroot.ro",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.chroot.ro/archlinux/",
       "https://mirrors.chroot.ro/archlinux/"
@@ -3115,7 +3115,7 @@
     "iso": "yes",
     "name": "efect.ro",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.efect.ro/archlinux/",
       "https://mirror.efect.ro/archlinux/",
@@ -3127,7 +3127,7 @@
     "iso": "yes",
     "name": "flokinet.net",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.flokinet.net/archlinux/",
       "https://mirror.flokinet.net/archlinux/",
@@ -3139,7 +3139,7 @@
     "iso": "no",
     "name": "go.ro",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.go.ro/archlinux/",
       "https://mirrors.go.ro/archlinux/",
@@ -3151,7 +3151,7 @@
     "iso": "no",
     "name": "hostico.ro",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.hostico.ro/archlinux/",
       "https://mirrors.hostico.ro/archlinux/"
@@ -3162,7 +3162,7 @@
     "iso": "yes",
     "name": "linux.ro",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://archlinux.mirrors.linux.ro/",
       "rsync://archlinux.mirrors.linux.ro/"
@@ -3173,7 +3173,7 @@
     "iso": "yes",
     "name": "m247.ro",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.m247.ro/archlinux/",
       "rsync://mirrors.m247.ro/archlinux/"
@@ -3184,7 +3184,7 @@
     "iso": "yes",
     "name": "nav.ro",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.nav.ro/archlinux/",
       "rsync://mirrors.nav.ro/archlinux/"
@@ -3195,7 +3195,7 @@
     "iso": "yes",
     "name": "nxthost.com",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.nxthost.com/archlinux/",
       "https://mirrors.nxthost.com/archlinux/",
@@ -3207,7 +3207,7 @@
     "iso": "yes",
     "name": "pidginhost.com",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://mirrors.pidginhost.com/arch/",
       "https://mirrors.pidginhost.com/arch/",
@@ -3219,7 +3219,7 @@
     "iso": "yes",
     "name": "kamtv.ru",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.kamtv.ru/archlinux/",
       "https://mirror.kamtv.ru/archlinux/"
@@ -3230,7 +3230,7 @@
     "iso": "yes",
     "name": "lebedinets.ru",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.lebedinets.ru/archlinux/",
       "https://mirror.lebedinets.ru/archlinux/",
@@ -3242,7 +3242,7 @@
     "iso": "yes",
     "name": "mirror.surf",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://mirror.surf/archlinux/",
       "https://mirror.surf/archlinux/",
@@ -3254,7 +3254,7 @@
     "iso": "yes",
     "name": "nw-sys.ru",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.nw-sys.ru/archlinux/",
       "https://mirror.nw-sys.ru/archlinux/",
@@ -3266,7 +3266,7 @@
     "iso": "yes",
     "name": "powernet.com.ru",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.powernet.com.ru/archlinux/",
       "rsync://mirrors.powernet.com.ru/archlinux/"
@@ -3277,7 +3277,7 @@
     "iso": "yes",
     "name": "rol.ru",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.rol.ru/archlinux/",
       "https://mirror.rol.ru/archlinux/"
@@ -3288,7 +3288,7 @@
     "iso": "yes",
     "name": "truenetwork.ru",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.truenetwork.ru/archlinux/",
       "https://mirror.truenetwork.ru/archlinux/",
@@ -3300,7 +3300,7 @@
     "iso": "yes",
     "name": "yandex.ru",
     "protocols": ["http", "https"],
-    "tier": "untiered",
+    "tier": -1,
     "urls": [
       "http://mirror.yandex.ru/archlinux/",
       "https://mirror.yandex.ru/archlinux/"
@@ -3311,7 +3311,7 @@
     "iso": "yes",
     "name": "zepto.cloud",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://archlinux.zepto.cloud/"]
   },
   {
@@ -3319,7 +3319,7 @@
     "iso": "yes",
     "name": "mithril.re",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://arch.mithril.re/"]
   },
   {
@@ -3327,7 +3327,7 @@
     "iso": "no",
     "name": "petarmaric.com",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://arch.petarmaric.com/"]
   },
   {
@@ -3335,7 +3335,7 @@
     "iso": "yes",
     "name": "pmf.kg.ac.rs",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://mirror.pmf.kg.ac.rs/archlinux/"]
   },
   {
@@ -3343,7 +3343,7 @@
     "iso": "yes",
     "name": "0x.sg",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.0x.sg/archlinux/",
       "https://mirror.0x.sg/archlinux/",
@@ -3355,7 +3355,7 @@
     "iso": "yes",
     "name": "aktkn.sg",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.aktkn.sg/archlinux/",
       "https://mirror.aktkn.sg/archlinux/",
@@ -3367,7 +3367,7 @@
     "iso": "yes",
     "name": "download.nus.edu.sg",
     "protocols": ["https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "https://download.nus.edu.sg/mirror/archlinux/",
       "rsync://download.nus.edu.sg/mirror/archlinux/"
@@ -3378,7 +3378,7 @@
     "iso": "yes",
     "name": "guillaumea.fr",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://mirror.guillaumea.fr/archlinux/",
       "https://mirror.guillaumea.fr/archlinux/",
@@ -3390,7 +3390,7 @@
     "iso": "yes",
     "name": "jingk.ai",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.jingk.ai/archlinux/",
       "https://mirror.jingk.ai/archlinux/",
@@ -3402,7 +3402,7 @@
     "iso": "yes",
     "name": "ossmirror.mycloud.services",
     "protocols": ["http", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://ossmirror.mycloud.services/os/linux/archlinux/",
       "rsync://ossmirror.mycloud.services/os/linux/archlinux/"
@@ -3413,7 +3413,7 @@
     "iso": "yes",
     "name": "sg.gs",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.sg.gs/archlinux/",
       "https://mirror.sg.gs/archlinux/"
@@ -3424,7 +3424,7 @@
     "iso": "yes",
     "name": "lnx.sk",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.lnx.sk/pub/linux/archlinux/",
       "https://mirror.lnx.sk/pub/linux/archlinux/"
@@ -3435,7 +3435,7 @@
     "iso": "yes",
     "name": "rainside.sk",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://tux.rainside.sk/archlinux/",
       "rsync://tux.rainside.sk/archlinux/"
@@ -3446,7 +3446,7 @@
     "iso": "yes",
     "name": "archimonde.ts.si",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://archimonde.ts.si/archlinux/",
       "https://archimonde.ts.si/archlinux/",
@@ -3458,7 +3458,7 @@
     "iso": "yes",
     "name": "tux.si",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://mirror.tux.si/arch/", "https://mirror.tux.si/arch/"]
   },
   {
@@ -3466,7 +3466,7 @@
     "iso": "yes",
     "name": "is.co.za",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.is.co.za/mirror/archlinux.org/",
       "rsync://mirror.is.co.za/mirror/archlinux.org/"
@@ -3477,7 +3477,7 @@
     "iso": "yes",
     "name": "urbanwave.co.za",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.urbanwave.co.za/archlinux/",
       "https://mirrors.urbanwave.co.za/archlinux/"
@@ -3488,7 +3488,7 @@
     "iso": "yes",
     "name": "anigil.com",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.anigil.com/archlinux/",
       "https://mirror.anigil.com/archlinux/"
@@ -3499,7 +3499,7 @@
     "iso": "yes",
     "name": "funami.tech",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://mirror.funami.tech/arch/",
       "https://mirror.funami.tech/arch/",
@@ -3511,7 +3511,7 @@
     "iso": "yes",
     "name": "harukasan.org",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://ftp.harukasan.org/archlinux/",
       "https://ftp.harukasan.org/archlinux/",
@@ -3523,7 +3523,7 @@
     "iso": "yes",
     "name": "lanet.kr",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://ftp.lanet.kr/pub/archlinux/",
       "https://ftp.lanet.kr/pub/archlinux/"
@@ -3534,7 +3534,7 @@
     "iso": "yes",
     "name": "misakamikoto.network",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.misakamikoto.network/archlinux/",
       "https://mirror.misakamikoto.network/archlinux/",
@@ -3546,7 +3546,7 @@
     "iso": "yes",
     "name": "premi.st",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.premi.st/archlinux/",
       "https://mirror.premi.st/archlinux/"
@@ -3557,7 +3557,7 @@
     "iso": "yes",
     "name": "cloroformo.org",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://mirror.cloroformo.org/archlinux/"]
   },
   {
@@ -3565,7 +3565,7 @@
     "iso": "yes",
     "name": "librelabucm.org",
     "protocols": ["http", "https", "rsync", "ftp"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.librelabucm.org/archlinux/",
       "https://mirror.librelabucm.org/archlinux/",
@@ -3578,7 +3578,7 @@
     "iso": "yes",
     "name": "mirrors.marquitos.space",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.marquitos.space/archlinux/",
       "https://mirrors.marquitos.space/archlinux/"
@@ -3589,7 +3589,7 @@
     "iso": "yes",
     "name": "rediris.es",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://ftp.rediris.es/mirror/archlinux/"]
   },
   {
@@ -3597,7 +3597,7 @@
     "iso": "yes",
     "name": "acc.umu.se",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://ftp.acc.umu.se/mirror/archlinux/",
       "https://ftp.acc.umu.se/mirror/archlinux/",
@@ -3609,7 +3609,7 @@
     "iso": "yes",
     "name": "infania.net",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://ftpmirror.infania.net/mirror/archlinux/",
       "rsync://ftpmirror.infania.net/mirror/archlinux/"
@@ -3620,7 +3620,7 @@
     "iso": "yes",
     "name": "ludd.ltu.se",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://ftp.ludd.ltu.se/mirrors/archlinux/"]
   },
   {
@@ -3628,7 +3628,7 @@
     "iso": "yes",
     "name": "lysator.liu.se",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://ftp.lysator.liu.se/pub/archlinux/",
       "https://ftp.lysator.liu.se/pub/archlinux/",
@@ -3640,7 +3640,7 @@
     "iso": "yes",
     "name": "mirror.bahnhof.net",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.bahnhof.net/pub/archlinux/",
       "https://mirror.bahnhof.net/pub/archlinux/",
@@ -3652,7 +3652,7 @@
     "iso": "yes",
     "name": "myrveln.se",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://ftp.myrveln.se/pub/linux/archlinux/",
       "https://ftp.myrveln.se/pub/linux/archlinux/",
@@ -3664,7 +3664,7 @@
     "iso": "yes",
     "name": "osbeck.com",
     "protocols": ["https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "https://mirror.osbeck.com/archlinux/",
       "rsync://mirror.osbeck.com/archlinux/"
@@ -3675,7 +3675,7 @@
     "iso": "yes",
     "name": "adfinis.com",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://pkg.adfinis.com/archlinux/",
       "https://pkg.adfinis.com/archlinux/",
@@ -3687,7 +3687,7 @@
     "iso": "no",
     "name": "init7.net",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.init7.net/archlinux/",
       "https://mirror.init7.net/archlinux/",
@@ -3699,7 +3699,7 @@
     "iso": "yes",
     "name": "metanet.ch",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.metanet.ch/archlinux/",
       "https://mirror.metanet.ch/archlinux/"
@@ -3710,7 +3710,7 @@
     "iso": "yes",
     "name": "mirror.puzzle.ch",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.puzzle.ch/archlinux/",
       "https://mirror.puzzle.ch/archlinux/",
@@ -3722,7 +3722,7 @@
     "iso": "yes",
     "name": "theswissbay.ch",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://theswissbay.ch/archlinux/"]
   },
   {
@@ -3730,7 +3730,7 @@
     "iso": "no",
     "name": "ungleich.ch",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://mirror.ungleich.ch/mirror/packages/archlinux/"]
   },
   {
@@ -3738,7 +3738,7 @@
     "iso": "yes",
     "name": "worldhotspot.org",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://mirror.worldhotspot.org/archlinux/"]
   },
   {
@@ -3746,7 +3746,7 @@
     "iso": "yes",
     "name": "archlinux.tw",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.archlinux.tw/ArchLinux/",
       "https://mirror.archlinux.tw/ArchLinux/",
@@ -3758,7 +3758,7 @@
     "iso": "yes",
     "name": "ccns.ncku.edu.tw",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://archlinux.ccns.ncku.edu.tw/archlinux/"]
   },
   {
@@ -3766,7 +3766,7 @@
     "iso": "yes",
     "name": "free.nchc.org.tw",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://free.nchc.org.tw/arch/", "https://free.nchc.org.tw/arch/"]
   },
   {
@@ -3774,7 +3774,7 @@
     "iso": "yes",
     "name": "nycu.edu.tw",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://archlinux.cs.nycu.edu.tw/",
       "https://archlinux.cs.nycu.edu.tw/",
@@ -3786,7 +3786,7 @@
     "iso": "yes",
     "name": "tku.edu.tw",
     "protocols": ["http", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://ftp.tku.edu.tw/Linux/ArchLinux/",
       "rsync://ftp.tku.edu.tw/Linux/ArchLinux/"
@@ -3797,7 +3797,7 @@
     "iso": "yes",
     "name": "yzu.edu.tw",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://ftp.yzu.edu.tw/Linux/archlinux/",
       "https://ftp.yzu.edu.tw/Linux/archlinux/",
@@ -3809,7 +3809,7 @@
     "iso": "yes",
     "name": "cyberbits.asia",
     "protocols": ["https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "https://mirror.cyberbits.asia/archlinux/",
       "rsync://mirror.cyberbits.asia/archlinux/"
@@ -3820,7 +3820,7 @@
     "iso": "yes",
     "name": "kku.ac.th",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.kku.ac.th/archlinux/",
       "https://mirror.kku.ac.th/archlinux/",
@@ -3832,7 +3832,7 @@
     "iso": "yes",
     "name": "totbb.net",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://mirror2.totbb.net/archlinux/"]
   },
   {
@@ -3840,7 +3840,7 @@
     "iso": "yes",
     "name": "linux.org.tr",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://ftp.linux.org.tr/archlinux/"]
   },
   {
@@ -3848,7 +3848,7 @@
     "iso": "yes",
     "name": "linux.web.tr",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://depo.turkiye.linux.web.tr/archlinux/",
       "https://depo.turkiye.linux.web.tr/archlinux/",
@@ -3860,7 +3860,7 @@
     "iso": "no",
     "name": "veriteknik.net.tr",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.veriteknik.net.tr/archlinux/",
       "rsync://mirror.veriteknik.net.tr/archlinux/"
@@ -3871,7 +3871,7 @@
     "iso": "yes",
     "name": "astra.in.ua",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://archlinux.astra.in.ua/",
       "https://archlinux.astra.in.ua/",
@@ -3883,7 +3883,7 @@
     "iso": "yes",
     "name": "endpoint.ml",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://repo.endpoint.ml/archlinux/",
       "https://repo.endpoint.ml/archlinux/"
@@ -3894,7 +3894,7 @@
     "iso": "yes",
     "name": "fastmirror.pp.ua",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://fastmirror.pp.ua/archlinux/",
       "https://fastmirror.pp.ua/archlinux/",
@@ -3906,7 +3906,7 @@
     "iso": "yes",
     "name": "ip-connect.vn.ua",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://archlinux.ip-connect.vn.ua/",
       "https://archlinux.ip-connect.vn.ua/",
@@ -3918,7 +3918,7 @@
     "iso": "yes",
     "name": "mirohost.net",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.mirohost.net/archlinux/",
       "https://mirror.mirohost.net/archlinux/",
@@ -3930,7 +3930,7 @@
     "iso": "yes",
     "name": "nix.org.ua",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.nix.org.ua/linux/archlinux/",
       "https://mirrors.nix.org.ua/linux/archlinux/",
@@ -3942,7 +3942,7 @@
     "iso": "yes",
     "name": "bytemark.co.uk",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.bytemark.co.uk/archlinux/",
       "https://mirror.bytemark.co.uk/archlinux/",
@@ -3954,7 +3954,7 @@
     "iso": "yes",
     "name": "manchester.m247.com",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.manchester.m247.com/arch-linux/",
       "rsync://mirrors.manchester.m247.com/arch-linux/"
@@ -3965,7 +3965,7 @@
     "iso": "yes",
     "name": "melbourne.co.uk",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.melbourne.co.uk/archlinux/",
       "https://mirrors.melbourne.co.uk/archlinux/",
@@ -3977,7 +3977,7 @@
     "iso": "yes",
     "name": "mirror.infernocomms.net",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.infernocomms.net/archlinux/",
       "https://mirror.infernocomms.net/archlinux/",
@@ -3989,7 +3989,7 @@
     "iso": "yes",
     "name": "mirrorservice.org",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://www.mirrorservice.org/sites/ftp.archlinux.org/",
       "https://www.mirrorservice.org/sites/ftp.archlinux.org/",
@@ -4001,7 +4001,7 @@
     "iso": "yes",
     "name": "netweaver.uk",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.netweaver.uk/archlinux/",
       "https://mirror.netweaver.uk/archlinux/"
@@ -4012,7 +4012,7 @@
     "iso": "yes",
     "name": "serverspace.co.uk",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://arch.serverspace.co.uk/arch/",
       "rsync://arch.serverspace.co.uk/arch/"
@@ -4023,7 +4023,7 @@
     "iso": "yes",
     "name": "slithery.uk",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://repo.slithery.uk/"]
   },
   {
@@ -4031,7 +4031,7 @@
     "iso": "yes",
     "name": "ukfast.co.uk",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.ukfast.co.uk/sites/archlinux.org/",
       "https://mirrors.ukfast.co.uk/sites/archlinux.org/",
@@ -4043,7 +4043,7 @@
     "iso": "yes",
     "name": "ukservers.com",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.cov.ukservers.com/archlinux/",
       "https://mirror.cov.ukservers.com/archlinux/"
@@ -4054,7 +4054,7 @@
     "iso": "yes",
     "name": "vinehost.net",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.vinehost.net/archlinux/",
       "https://mirror.vinehost.net/archlinux/",
@@ -4066,7 +4066,7 @@
     "iso": "yes",
     "name": "acm.wpi.edu",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://mirrors.acm.wpi.edu/archlinux/"]
   },
   {
@@ -4074,7 +4074,7 @@
     "iso": "yes",
     "name": "adectra.com",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.adectra.com/archlinux/",
       "https://mirror.adectra.com/archlinux/",
@@ -4086,7 +4086,7 @@
     "iso": "yes",
     "name": "advancedhosters.com",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.advancedhosters.com/archlinux/",
       "rsync://mirrors.advancedhosters.com/archlinux/"
@@ -4097,7 +4097,7 @@
     "iso": "yes",
     "name": "aggregate.org",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.aggregate.org/archlinux/",
       "rsync://mirrors.aggregate.org/archlinux/"
@@ -4108,7 +4108,7 @@
     "iso": "yes",
     "name": "arizona.edu",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.arizona.edu/archlinux/",
       "https://mirror.arizona.edu/archlinux/",
@@ -4120,7 +4120,7 @@
     "iso": "yes",
     "name": "arlm.tyzoid.com",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://arlm.tyzoid.com/",
       "https://arlm.tyzoid.com/",
@@ -4132,7 +4132,7 @@
     "iso": "yes",
     "name": "ava.dev",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://mirror.ava.dev/archlinux/"]
   },
   {
@@ -4140,7 +4140,7 @@
     "iso": "yes",
     "name": "bloomu.edu",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.bloomu.edu/archlinux/",
       "https://mirrors.bloomu.edu/archlinux/",
@@ -4152,7 +4152,7 @@
     "iso": "yes",
     "name": "ca.us.mirror.archlinux-br.org",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://ca.us.mirror.archlinux-br.org/"]
   },
   {
@@ -4160,7 +4160,7 @@
     "iso": "yes",
     "name": "cat.pdx.edu",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.cat.pdx.edu/archlinux/",
       "rsync://mirrors.cat.pdx.edu/archlinux/"
@@ -4171,7 +4171,7 @@
     "iso": "yes",
     "name": "cc.columbia.edu",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.cc.columbia.edu/pub/linux/archlinux/",
       "rsync://mirror.cc.columbia.edu/pub/linux/archlinux/"
@@ -4182,7 +4182,7 @@
     "iso": "yes",
     "name": "clarkson.edu",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.clarkson.edu/archlinux/",
       "https://mirror.clarkson.edu/archlinux/",
@@ -4194,7 +4194,7 @@
     "iso": "yes",
     "name": "constant.com",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://arch.mirror.constant.com/",
       "https://arch.mirror.constant.com/",
@@ -4206,7 +4206,7 @@
     "iso": "yes",
     "name": "cs.pitt.edu",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.cs.pitt.edu/archlinux/",
       "rsync://mirror.cs.pitt.edu/archlinux/"
@@ -4217,7 +4217,7 @@
     "iso": "yes",
     "name": "cs.vt.edu",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.cs.vt.edu/pub/ArchLinux/",
       "rsync://mirror.cs.vt.edu/pub/ArchLinux/"
@@ -4228,7 +4228,7 @@
     "iso": "yes",
     "name": "cybersecurity.nmt.edu",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.cybersecurity.nmt.edu/archlinux/",
       "https://mirror.cybersecurity.nmt.edu/archlinux/"
@@ -4239,7 +4239,7 @@
     "iso": "yes",
     "name": "distro.ibiblio.org",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://distro.ibiblio.org/archlinux/",
       "rsync://distro.ibiblio.org/archlinux/"
@@ -4250,7 +4250,7 @@
     "iso": "yes",
     "name": "es.its.nyu.edu",
     "protocols": ["http", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://mirror.es.its.nyu.edu/archlinux/",
       "rsync://mirror.es.its.nyu.edu/archlinux/"
@@ -4261,7 +4261,7 @@
     "iso": "yes",
     "name": "ette.biz",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.ette.biz/archlinux/",
       "https://mirror.ette.biz/archlinux/",
@@ -4273,7 +4273,7 @@
     "iso": "yes",
     "name": "fossable.org",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.fossable.org/archlinux/",
       "rsync://mirror.fossable.org/archlinux/"
@@ -4284,7 +4284,7 @@
     "iso": "yes",
     "name": "gigenet.com",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://mirrors.gigenet.com/archlinux/"]
   },
   {
@@ -4292,7 +4292,7 @@
     "iso": "yes",
     "name": "gtlib.gatech.edu",
     "protocols": ["http", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://www.gtlib.gatech.edu/pub/archlinux/",
       "rsync://www.gtlib.gatech.edu/pub/archlinux/"
@@ -4303,7 +4303,7 @@
     "iso": "yes",
     "name": "hackingand.coffee",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://mirror.hackingand.coffee/arch/",
       "https://mirror.hackingand.coffee/arch/",
@@ -4315,7 +4315,7 @@
     "iso": "yes",
     "name": "hodgepodge.dev",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://mirror.hodgepodge.dev/archlinux/"]
   },
   {
@@ -4323,7 +4323,7 @@
     "iso": "yes",
     "name": "hostup.org",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.hostup.org/archlinux/",
       "https://mirror.hostup.org/archlinux/",
@@ -4335,7 +4335,7 @@
     "iso": "yes",
     "name": "hu.fo",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://arch.hu.fo/archlinux/",
       "https://arch.hu.fo/archlinux/",
@@ -4347,7 +4347,7 @@
     "iso": "yes",
     "name": "ialab.dsu.edu",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://repo.ialab.dsu.edu/archlinux/",
       "https://repo.ialab.dsu.edu/archlinux/"
@@ -4358,7 +4358,7 @@
     "iso": "yes",
     "name": "ivo.st",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://arch.mirror.ivo.st/"]
   },
   {
@@ -4366,7 +4366,7 @@
     "iso": "yes",
     "name": "kernel.org",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://mirrors.kernel.org/archlinux/",
       "https://mirrors.kernel.org/archlinux/",
@@ -4378,7 +4378,7 @@
     "iso": "yes",
     "name": "liquidweb.com",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.liquidweb.com/archlinux/",
       "rsync://mirrors.liquidweb.com/archlinux/"
@@ -4389,7 +4389,7 @@
     "iso": "yes",
     "name": "lty.me",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.lty.me/archlinux/",
       "https://mirror.lty.me/archlinux/",
@@ -4401,7 +4401,7 @@
     "iso": "yes",
     "name": "lug.mtu.edu",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://mirrors.lug.mtu.edu/archlinux/",
       "https://mirrors.lug.mtu.edu/archlinux/",
@@ -4413,7 +4413,7 @@
     "iso": "yes",
     "name": "m.lqy.me",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://m.lqy.me/arch/"]
   },
   {
@@ -4421,7 +4421,7 @@
     "iso": "yes",
     "name": "math.princeton.edu",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.math.princeton.edu/pub/archlinux/",
       "rsync://mirror.math.princeton.edu/pub/archlinux/"
@@ -4432,7 +4432,7 @@
     "iso": "yes",
     "name": "metrocast.net",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://mirror.metrocast.net/archlinux/"]
   },
   {
@@ -4440,7 +4440,7 @@
     "iso": "yes",
     "name": "mirror.kaminski.io",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.kaminski.io/archlinux/",
       "https://mirror.kaminski.io/archlinux/"
@@ -4451,7 +4451,7 @@
     "iso": "yes",
     "name": "mirror.stephanie.is",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.stephanie.is/archlinux/",
       "https://mirror.stephanie.is/archlinux/"
@@ -4462,7 +4462,7 @@
     "iso": "yes",
     "name": "misaka.one",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://iad.mirrors.misaka.one/archlinux/",
       "https://iad.mirrors.misaka.one/archlinux/",
@@ -4474,7 +4474,7 @@
     "iso": "yes",
     "name": "miserver.it.umich.edu",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://repo.miserver.it.umich.edu/archlinux/"]
   },
   {
@@ -4482,7 +4482,7 @@
     "iso": "yes",
     "name": "mit.edu",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.mit.edu/archlinux/",
       "https://mirrors.mit.edu/archlinux/",
@@ -4494,7 +4494,7 @@
     "iso": "yes",
     "name": "ocf.berkeley.edu",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://mirrors.ocf.berkeley.edu/archlinux/",
       "https://mirrors.ocf.berkeley.edu/archlinux/",
@@ -4506,7 +4506,7 @@
     "iso": "yes",
     "name": "octyl.net",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://archmirror1.octyl.net/", "https://archmirror1.octyl.net/"]
   },
   {
@@ -4514,7 +4514,7 @@
     "iso": "yes",
     "name": "osuosl.org",
     "protocols": ["http", "https", "rsync"],
-    "tier": "untiered",
+    "tier": -1,
     "urls": [
       "http://ftp.osuosl.org/pub/archlinux/",
       "https://ftp.osuosl.org/pub/archlinux/",
@@ -4526,7 +4526,7 @@
     "iso": "yes",
     "name": "pair.com",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://arch.mirrors.pair.com/"]
   },
   {
@@ -4534,7 +4534,7 @@
     "iso": "yes",
     "name": "radwebhosting.com",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.radwebhosting.com/archlinux/",
       "https://mirrors.radwebhosting.com/archlinux/",
@@ -4546,7 +4546,7 @@
     "iso": "yes",
     "name": "rcac.purdue.edu",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://plug-mirror.rcac.purdue.edu/archlinux/",
       "https://plug-mirror.rcac.purdue.edu/archlinux/",
@@ -4558,7 +4558,7 @@
     "iso": "yes",
     "name": "rit.edu",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 1",
+    "tier": 1,
     "urls": [
       "http://mirrors.rit.edu/archlinux/",
       "https://mirrors.rit.edu/archlinux/",
@@ -4570,7 +4570,7 @@
     "iso": "yes",
     "name": "rutgers.edu",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.rutgers.edu/archlinux/",
       "https://mirrors.rutgers.edu/archlinux/"
@@ -4581,7 +4581,7 @@
     "iso": "yes",
     "name": "sandyriver.net",
     "protocols": ["https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "https://mirror2.sandyriver.net/pub/archlinux/",
       "rsync://mirror2.sandyriver.net/pub/archlinux/"
@@ -4592,7 +4592,7 @@
     "iso": "yes",
     "name": "siena.edu",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.siena.edu/archlinux/",
       "rsync://mirror.siena.edu/archlinux/"
@@ -4603,7 +4603,7 @@
     "iso": "no",
     "name": "sonic.net",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.sonic.net/archlinux/",
       "https://mirrors.sonic.net/archlinux/",
@@ -4615,7 +4615,7 @@
     "iso": "yes",
     "name": "spryservers.net",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.phx1.us.spryservers.net/archlinux/",
       "https://mirror.phx1.us.spryservers.net/archlinux/",
@@ -4627,7 +4627,7 @@
     "iso": "yes",
     "name": "square-r00t.net",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://arch.mirror.square-r00t.net/",
       "https://arch.mirror.square-r00t.net/",
@@ -4639,7 +4639,7 @@
     "iso": "yes",
     "name": "stjschools.org",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.stjschools.org/arch/",
       "https://mirror.stjschools.org/arch/"
@@ -4650,7 +4650,7 @@
     "iso": "yes",
     "name": "sudhip.com",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://ftp.sudhip.com/archlinux/",
       "https://ftp.sudhip.com/archlinux/"
@@ -4661,7 +4661,7 @@
     "iso": "yes",
     "name": "teraswitch.com",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.pit.teraswitch.com/archlinux/",
       "https://mirror.pit.teraswitch.com/archlinux/",
@@ -4673,7 +4673,7 @@
     "iso": "yes",
     "name": "the-repo.org",
     "protocols": ["https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "https://mirror.the-repo.org/ArchMirror/",
       "rsync://mirror.the-repo.org/ArchMirror/"
@@ -4684,7 +4684,7 @@
     "iso": "yes",
     "name": "theash.xyz",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://mirror.theash.xyz/arch/"]
   },
   {
@@ -4692,7 +4692,7 @@
     "iso": "yes",
     "name": "tmmworkshop.com",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://mirror.tmmworkshop.com/archlinux/"]
   },
   {
@@ -4700,7 +4700,7 @@
     "iso": "yes",
     "name": "umd.edu",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.umd.edu/archlinux/",
       "https://mirror.umd.edu/archlinux/",
@@ -4712,7 +4712,7 @@
     "iso": "yes",
     "name": "vectair.net",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirrors.vectair.net/archlinux/",
       "https://mirrors.vectair.net/archlinux/"
@@ -4723,7 +4723,7 @@
     "iso": "yes",
     "name": "vtti.vt.edu",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://mirror.vtti.vt.edu/archlinux/"]
   },
   {
@@ -4731,7 +4731,7 @@
     "iso": "yes",
     "name": "wcbmedia.io",
     "protocols": ["http", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://wcbmedia.io:8000/", "rsync://wcbmedia.io:8000/"]
   },
   {
@@ -4739,7 +4739,7 @@
     "iso": "yes",
     "name": "xmission.com",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://mirrors.xmission.com/archlinux/"]
   },
   {
@@ -4747,7 +4747,7 @@
     "iso": "yes",
     "name": "xtom.com",
     "protocols": ["http", "https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.xtom.com.hk/archlinux/",
       "https://mirror.xtom.com.hk/archlinux/"
@@ -4758,7 +4758,7 @@
     "iso": "yes",
     "name": "zackmyers.io",
     "protocols": ["https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "https://mirror.zackmyers.io/archlinux/",
       "rsync://mirror.zackmyers.io/archlinux/"
@@ -4769,7 +4769,7 @@
     "iso": "yes",
     "name": "zxcvfdsa.com",
     "protocols": ["https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://zxcvfdsa.com/arch/", "rsync://zxcvfdsa.com/arch/"]
   },
   {
@@ -4777,7 +4777,7 @@
     "iso": "no",
     "name": "dc.uz",
     "protocols": ["http", "https", "rsync"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": [
       "http://mirror.dc.uz/arch/",
       "https://mirror.dc.uz/arch/",
@@ -4789,7 +4789,7 @@
     "iso": "yes",
     "name": "allworldit.com",
     "protocols": ["http", "https", "rsync"],
-    "tire": "tier 1",
+    "tire": 1,
     "urls": [
       "http://archlinux.za.mirror.allworldit.com/archlinux/",
       "https://archlinux.za.mirror.allworldit.com/archlinux/",
@@ -4801,7 +4801,7 @@
     "iso": "yes",
     "name": "archlinux-br.org",
     "protocols": ["http"],
-    "tire": "tier 2",
+    "tire": 2,
     "urls": ["http://br.mirror.archlinux-br.org/"]
   },
   {
@@ -4809,7 +4809,7 @@
     "iso": "yes",
     "name": "fcix.net",
     "protocols": ["http", "https", "rsync"],
-    "tire": "tier 2",
+    "tire": 2,
     "urls": [
       "http://gsl-syd.mm.fcix.net/archlinux/",
       "https://gsl-syd.mm.fcix.net/archlinux/",
@@ -4821,7 +4821,7 @@
     "iso": "yes",
     "name": "geo.mirror.pkgbuild.com",
     "protocols": ["https"],
-    "tire": "tier 1",
+    "tire": 1,
     "urls": ["https://geo.mirror.pkgbuild.com/"]
   },
   {
@@ -4829,7 +4829,7 @@
     "iso": "yes",
     "name": "kescher.at",
     "protocols": ["https", "rsync"],
-    "tire": "tier 1",
+    "tire": 1,
     "urls": [
       "https://at.arch.mirror.kescher.at/",
       "rsync://at.arch.mirror.kescher.at/"
@@ -4840,7 +4840,7 @@
     "iso": "yes",
     "name": "koddos.net",
     "protocols": ["http", "https", "rsync"],
-    "tire": "tier 2",
+    "tire": 2,
     "urls": [
       "http://mirror-hk.koddos.net/archlinux/",
       "https://mirror-hk.koddos.net/archlinux/",
@@ -4852,7 +4852,7 @@
     "iso": "yes",
     "name": "leaseweb.net",
     "protocols": ["http", "https", "rsync"],
-    "tire": "tier 1",
+    "tire": 1,
     "urls": [
       "http://mirror.fra10.de.leaseweb.net/archlinux/",
       "https://mirror.fra10.de.leaseweb.net/archlinux/",
@@ -4864,7 +4864,7 @@
     "iso": "yes",
     "name": "rackspace.com",
     "protocols": ["http", "https", "rsync"],
-    "tire": "tier 1",
+    "tire": 1,
     "urls": [
       "http://syd.mirror.rackspace.com/archlinux/",
       "https://syd.mirror.rackspace.com/archlinux/",
@@ -4876,7 +4876,7 @@
     "iso": "yes",
     "name": "yal.sl-chat.ru",
     "protocols": ["https", "rsync"],
-    "tire": "tier 2",
+    "tire": 2,
     "urls": [
       "https://mirror.yal.sl-chat.ru/archlinux/",
       "rsync://mirror.yal.sl-chat.ru/archlinux/"
@@ -4887,7 +4887,7 @@
     "iso": "yes",
     "name": "42tm.tech",
     "protocols": ["https"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["https://mirrors.42tm.tech/archlinux/"]
   },
   {
@@ -4895,7 +4895,7 @@
     "iso": "yes",
     "name": "archlinuxvn.org",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://f.archlinuxvn.org/archlinux/"]
   },
   {
@@ -4903,7 +4903,7 @@
     "iso": "yes",
     "name": "bizflycloud.vn",
     "protocols": ["http"],
-    "tier": "tier 2",
+    "tier": 2,
     "urls": ["http://mirror.bizflycloud.vn/archlinux/"]
   }
 ]
