@@ -1,29 +1,41 @@
 #!/usr/bin/env bash
 
-mirrors="/home/farhan/mirrors.json"
+mirrors="./mirrors.json"
+country_file="./countries.json"
 
 # Create a temporary file for the updated mirrors
 tmp_file=$(mktemp)
 
-mapfile -t names < <(jq -r '.[]|.name' "$mirrors")
+# mapfile -t names < <(jq -r '.[]|.name' "$mirrors")
+mapfile -t countries < <(jq -r '.[]|.country' "$mirrors")
 # mapfile -t urls < <(jq -r '.[] | .url' "$mirrors" | sed "s#http.*\/\/##g")
 get_current_mirror() {
-    name="$1"
-    url=$(jq --arg name "$name" -r '.[]|select(.name == $name) | .url' $mirrors | sed -E "s#http.*//##g")
+    # name="$1"
+    country="$1"
+    # url=$(jq --arg name "$name" -r '.[]|select(.name == $name) | .url' $mirrors | sed -E "s#http.*//##g")
+    code=$(jq --arg country "$country" -r '.[]|select(.name == $country) | .code' "$country_file")
+    # echo "$code"
     jq \
-    --arg url "$url" \
-    --arg name "$name" \
-    'map(if .name == $name then .protocols as $p | .urls = ($p | map("\(.)://\($url)")) | del(.url) else . end) ' \
+    --arg code "$code" \
+    --arg country "$country" \
+    'map(if .country == $country then .code = $code else . end)' \
     "$mirrors" > "$tmp_file"
 
     mv "$tmp_file" "$mirrors"
+    # 'map(if .name == $name then .protocols as $p | .urls = ($p | map("\(.)://\($url)")) | del(.url) else . end) ' \
+    # --arg url "$url" \
     # 'map(if .name == $name then .protocols as $p | reduce $p[] as $protocol (.; . + { ($protocol) : (($protocol)+ "://" + ($url)) }) | del(.url) else . end) ' \
 }
 # get_current_mirror eze.sysarmy.com
+# get_current_mirror "australia"
 
-for name in "${names[@]}"; do
-    get_current_mirror "$name"
+for country in "${countries[@]}"; do
+    get_current_mirror "$country"
 done
+
+# for name in "${names[@]}"; do
+#     get_current_mirror "$name"
+# done
 
 # Use below to add urls to json file
 # urls="/etc/pacman.d/mirrorlist.pacnew"

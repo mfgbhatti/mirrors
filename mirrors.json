@@ -1,9 +1,13 @@
 [
   {
+    "code": "AR",
     "country": "argentina",
     "iso": "yes",
     "name": "eze.sysarmy.com",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.eze.sysarmy.com/archlinux/",
@@ -11,10 +15,14 @@
     ]
   },
   {
+    "code": "AU",
     "country": "australia",
     "iso": "yes",
     "name": "aarnet.edu.au",
-    "protocols": ["https", "rsync"],
+    "protocols": [
+      "https",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "https://mirror.aarnet.edu.au/pub/archlinux/",
@@ -22,10 +30,15 @@
     ]
   },
   {
+    "code": "AU",
     "country": "australia",
     "iso": "yes",
     "name": "digitalpacific.com.au",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://archlinux.mirror.digitalpacific.com.au/",
@@ -34,10 +47,14 @@
     ]
   },
   {
+    "code": "AU",
     "country": "australia",
     "iso": "yes",
     "name": "iinet.net.au",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://ftp.iinet.net.au/pub/archlinux/",
@@ -45,10 +62,14 @@
     ]
   },
   {
+    "code": "AU",
     "country": "australia",
     "iso": "yes",
     "name": "internode.on.net",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://mirror.internode.on.net/pub/archlinux/",
@@ -56,10 +77,14 @@
     ]
   },
   {
+    "code": "AU",
     "country": "australia",
     "iso": "yes",
     "name": "swin.edu.au",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://ftp.swin.edu.au/archlinux/",
@@ -67,10 +92,14 @@
     ]
   },
   {
+    "code": "AU",
     "country": "australia",
     "iso": "yes",
     "name": "wale.id.au",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.wale.id.au/archlinux/",
@@ -78,10 +107,15 @@
     ]
   },
   {
+    "code": "AT",
     "country": "austria",
     "iso": "yes",
     "name": "alwyzon.net",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.alwyzon.net/archlinux/",
@@ -90,18 +124,27 @@
     ]
   },
   {
+    "code": "AT",
     "country": "austria",
     "iso": "yes",
     "name": "digitalnova.at",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://mirror.digitalnova.at/archlinux/"]
+    "urls": [
+      "http://mirror.digitalnova.at/archlinux/"
+    ]
   },
   {
+    "code": "AT",
     "country": "austria",
     "iso": "yes",
     "name": "easyname.at",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.easyname.at/archlinux/",
@@ -109,10 +152,15 @@
     ]
   },
   {
+    "code": "AT",
     "country": "austria",
     "iso": "yes",
     "name": "reisenbauer.ee",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.reisenbauer.ee/archlinux/",
@@ -121,10 +169,14 @@
     ]
   },
   {
+    "code": "AZ",
     "country": "azerbaijan",
     "iso": "yes",
     "name": "hostart.az",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.hostart.az/archlinux/",
@@ -132,10 +184,14 @@
     ]
   },
   {
+    "code": "AZ",
     "country": "azerbaijan",
     "iso": "no",
     "name": "yer.az",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.yer.az/archlinux/",
@@ -143,18 +199,27 @@
     ]
   },
   {
+    "code": "BD",
     "country": "bangladesh",
     "iso": "yes",
     "name": "xeonbd.com",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://mirror.xeonbd.com/archlinux/"]
+    "urls": [
+      "http://mirror.xeonbd.com/archlinux/"
+    ]
   },
   {
+    "code": "BY",
     "country": "belarus",
     "iso": "yes",
     "name": "byfly.by",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://ftp.byfly.by/pub/archlinux/",
@@ -162,10 +227,14 @@
     ]
   },
   {
+    "code": "BY",
     "country": "belarus",
     "iso": "yes",
     "name": "datacenter.by",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.datacenter.by/pub/archlinux/",
@@ -173,50 +242,81 @@
     ]
   },
   {
+    "code": "BE",
     "country": "belgium",
     "iso": "yes",
     "name": "archlinux.cu.be",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://archlinux.cu.be/"]
+    "urls": [
+      "http://archlinux.cu.be/"
+    ]
   },
   {
+    "code": "BE",
     "country": "belgium",
     "iso": "yes",
     "name": "kangaroot.net",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://archlinux.mirror.kangaroot.net/"]
+    "urls": [
+      "http://archlinux.mirror.kangaroot.net/"
+    ]
   },
   {
+    "code": "BE",
     "country": "belgium",
     "iso": "yes",
     "name": "tiguinet.net",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://mirror.tiguinet.net/arch/"]
+    "urls": [
+      "http://mirror.tiguinet.net/arch/"
+    ]
   },
   {
+    "code": "BA",
     "country": "bosnia and herzegovina",
     "iso": "yes",
     "name": "mirror.ba",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
-    "urls": ["http://archlinux.mirror.ba/", "rsync://archlinux.mirror.ba/"]
+    "urls": [
+      "http://archlinux.mirror.ba/",
+      "rsync://archlinux.mirror.ba/"
+    ]
   },
   {
+    "code": "BR",
     "country": "brazil",
     "iso": "yes",
     "name": "br.mirror.archlinux-br.org",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://br.mirror.archlinux-br.org/"]
+    "urls": [
+      "http://br.mirror.archlinux-br.org/"
+    ]
   },
   {
+    "code": "BR",
     "country": "brazil",
     "iso": "yes",
     "name": "c3sl.ufpr.br",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://archlinux.c3sl.ufpr.br/",
@@ -224,10 +324,14 @@
     ]
   },
   {
+    "code": "BR",
     "country": "brazil",
     "iso": "no",
     "name": "caco.ic.unicamp.br",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://www.caco.ic.unicamp.br/archlinux/",
@@ -235,10 +339,14 @@
     ]
   },
   {
+    "code": "BR",
     "country": "brazil",
     "iso": "yes",
     "name": "linorg.usp.br",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://linorg.usp.br/archlinux/",
@@ -246,10 +354,14 @@
     ]
   },
   {
+    "code": "BR",
     "country": "brazil",
     "iso": "yes",
     "name": "pop-es.rnp.br",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://archlinux.pop-es.rnp.br/",
@@ -257,18 +369,27 @@
     ]
   },
   {
+    "code": "BR",
     "country": "brazil",
     "iso": "yes",
     "name": "ufam.edu.br",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://mirror.ufam.edu.br/archlinux/"]
+    "urls": [
+      "http://mirror.ufam.edu.br/archlinux/"
+    ]
   },
   {
+    "code": "BR",
     "country": "brazil",
     "iso": "yes",
     "name": "ufscar.br",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.ufscar.br/archlinux/",
@@ -276,26 +397,42 @@
     ]
   },
   {
+    "code": "BG",
     "country": "bulgaria",
     "iso": "no",
     "name": "archlinux.bg",
-    "protocols": ["https", "rsync"],
+    "protocols": [
+      "https",
+      "rsync"
+    ],
     "tier": 2,
-    "urls": ["https://mirror.archlinux.bg/", "rsync://mirror.archlinux.bg/"]
+    "urls": [
+      "https://mirror.archlinux.bg/",
+      "rsync://mirror.archlinux.bg/"
+    ]
   },
   {
+    "code": "BG",
     "country": "bulgaria",
     "iso": "yes",
     "name": "darklinux.uk",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://mirror.darklinux.uk/archlinux/"]
+    "urls": [
+      "https://mirror.darklinux.uk/archlinux/"
+    ]
   },
   {
+    "code": "BG",
     "country": "bulgaria",
     "iso": "yes",
     "name": "host.ag",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.host.ag/archlinux/",
@@ -303,10 +440,14 @@
     ]
   },
   {
+    "code": "BG",
     "country": "bulgaria",
     "iso": "no",
     "name": "netix.net",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.netix.net/archlinux/",
@@ -314,10 +455,15 @@
     ]
   },
   {
+    "code": "BG",
     "country": "bulgaria",
     "iso": "yes",
     "name": "telepoint.bg",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.telepoint.bg/archlinux/",
@@ -326,10 +472,15 @@
     ]
   },
   {
+    "code": "BG",
     "country": "bulgaria",
     "iso": "yes",
     "name": "uni-plovdiv.net",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.uni-plovdiv.net/archlinux/",
@@ -338,10 +489,14 @@
     ]
   },
   {
+    "code": "KH",
     "country": "cambodia",
     "iso": "no",
     "name": "sabay.com.kh",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.sabay.com.kh/archlinux/",
@@ -349,10 +504,15 @@
     ]
   },
   {
+    "code": "CA",
     "country": "canada",
     "iso": "yes",
     "name": "0xem.ma",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.0xem.ma/arch/",
@@ -361,34 +521,54 @@
     ]
   },
   {
+    "code": "CA",
     "country": "canada",
     "iso": "yes",
     "name": "arch.mirror.winslow.cloud",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://arch.mirror.winslow.cloud/"]
+    "urls": [
+      "https://arch.mirror.winslow.cloud/"
+    ]
   },
   {
+    "code": "CA",
     "country": "canada",
     "iso": "yes",
     "name": "cedille.club",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://mirror.cedille.club/archlinux/"]
+    "urls": [
+      "http://mirror.cedille.club/archlinux/"
+    ]
   },
   {
+    "code": "CA",
     "country": "canada",
     "iso": "yes",
     "name": "colo-serv.net",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://archlinux.mirror.colo-serv.net/"]
+    "urls": [
+      "http://archlinux.mirror.colo-serv.net/"
+    ]
   },
   {
+    "code": "CA",
     "country": "canada",
     "iso": "yes",
     "name": "csclub.uwaterloo.ca",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://mirror.csclub.uwaterloo.ca/archlinux/",
@@ -397,10 +577,15 @@
     ]
   },
   {
+    "code": "CA",
     "country": "canada",
     "iso": "yes",
     "name": "evolution-host.com",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror2.evolution-host.com/archlinux/",
@@ -409,10 +594,14 @@
     ]
   },
   {
+    "code": "CA",
     "country": "canada",
     "iso": "yes",
     "name": "its.dal.ca",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.its.dal.ca/archlinux/",
@@ -420,10 +609,15 @@
     ]
   },
   {
+    "code": "CA",
     "country": "canada",
     "iso": "yes",
     "name": "mirror.quantum5.ca",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.quantum5.ca/archlinux/",
@@ -432,10 +626,14 @@
     ]
   },
   {
+    "code": "CA",
     "country": "canada",
     "iso": "yes",
     "name": "muug.ca",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://muug.ca/mirror/archlinux/",
@@ -443,10 +641,15 @@
     ]
   },
   {
+    "code": "CA",
     "country": "canada",
     "iso": "yes",
     "name": "powerfly.ca",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.powerfly.ca/archlinux/",
@@ -455,10 +658,14 @@
     ]
   },
   {
+    "code": "CA",
     "country": "canada",
     "iso": "yes",
     "name": "rafal.ca",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://archlinux.mirror.rafal.ca/",
@@ -466,18 +673,30 @@
     ]
   },
   {
+    "code": "CA",
     "country": "canada",
     "iso": "yes",
     "name": "scd31.com",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
-    "urls": ["http://mirror.scd31.com/arch/", "https://mirror.scd31.com/arch/"]
+    "urls": [
+      "http://mirror.scd31.com/arch/",
+      "https://mirror.scd31.com/arch/"
+    ]
   },
   {
+    "code": "CA",
     "country": "canada",
     "iso": "yes",
     "name": "xenyth.net",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.xenyth.net/archlinux/",
@@ -486,10 +705,15 @@
     ]
   },
   {
+    "code": "CL",
     "country": "chile",
     "iso": "yes",
     "name": "anquan.cl",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.anquan.cl/archlinux/",
@@ -498,18 +722,28 @@
     ]
   },
   {
+    "code": "CL",
     "country": "chile",
     "iso": "yes",
     "name": "archlinux.cl",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": -1,
-    "urls": ["http://mirror.archlinux.cl/"]
+    "urls": [
+      "http://mirror.archlinux.cl/"
+    ]
   },
   {
+    "code": "CL",
     "country": "chile",
     "iso": "yes",
     "name": "hnd.cl",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.hnd.cl/archlinux/",
@@ -518,10 +752,14 @@
     ]
   },
   {
+    "code": "CL",
     "country": "chile",
     "iso": "yes",
     "name": "ufro.cl",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.ufro.cl/archlinux/",
@@ -529,18 +767,27 @@
     ]
   },
   {
+    "code": "CN",
     "country": "china",
     "iso": "yes",
     "name": "163.com",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://mirrors.163.com/archlinux/"]
+    "urls": [
+      "http://mirrors.163.com/archlinux/"
+    ]
   },
   {
+    "code": "CN",
     "country": "china",
     "iso": "yes",
     "name": "aliyun.com",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.aliyun.com/archlinux/",
@@ -548,10 +795,15 @@
     ]
   },
   {
+    "code": "CN",
     "country": "china",
     "iso": "yes",
     "name": "bfsu.edu.cn",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.bfsu.edu.cn/archlinux/",
@@ -560,10 +812,14 @@
     ]
   },
   {
+    "code": "CN",
     "country": "china",
     "iso": "yes",
     "name": "cqu.edu.cn",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.cqu.edu.cn/archlinux/",
@@ -571,10 +827,15 @@
     ]
   },
   {
+    "code": "CN",
     "country": "china",
     "iso": "yes",
     "name": "hit.edu.cn",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.hit.edu.cn/archlinux/",
@@ -583,10 +844,15 @@
     ]
   },
   {
+    "code": "CN",
     "country": "china",
     "iso": "yes",
     "name": "jlu.edu.cn",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.jlu.edu.cn/archlinux/",
@@ -595,18 +861,28 @@
     ]
   },
   {
+    "code": "CN",
     "country": "china",
     "iso": "yes",
     "name": "lzu.edu.cn",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://mirror.lzu.edu.cn/archlinux/"]
+    "urls": [
+      "http://mirror.lzu.edu.cn/archlinux/"
+    ]
   },
   {
+    "code": "CN",
     "country": "china",
     "iso": "yes",
     "name": "neusoft.edu.cn",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://mirrors.neusoft.edu.cn/archlinux/",
@@ -615,10 +891,15 @@
     ]
   },
   {
+    "code": "CN",
     "country": "china",
     "iso": "yes",
     "name": "nju.edu.cn",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.nju.edu.cn/archlinux/",
@@ -627,18 +908,27 @@
     ]
   },
   {
+    "code": "CN",
     "country": "china",
     "iso": "yes",
     "name": "njupt.edu.cn",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://mirrors.njupt.edu.cn/archlinux/"]
+    "urls": [
+      "https://mirrors.njupt.edu.cn/archlinux/"
+    ]
   },
   {
+    "code": "CN",
     "country": "china",
     "iso": "yes",
     "name": "redrock.team",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.redrock.team/archlinux/",
@@ -646,10 +936,14 @@
     ]
   },
   {
+    "code": "CN",
     "country": "china",
     "iso": "yes",
     "name": "shanghaitech.edu.cn",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.shanghaitech.edu.cn/archlinux/",
@@ -657,18 +951,28 @@
     ]
   },
   {
+    "code": "CN",
     "country": "china",
     "iso": "yes",
     "name": "sjtug.sjtu.edu.cn",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://mirrors.sjtug.sjtu.edu.cn/archlinux/"]
+    "urls": [
+      "https://mirrors.sjtug.sjtu.edu.cn/archlinux/"
+    ]
   },
   {
+    "code": "CN",
     "country": "china",
     "iso": "yes",
     "name": "tuna.tsinghua.edu.cn",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://mirrors.tuna.tsinghua.edu.cn/archlinux/",
@@ -677,10 +981,15 @@
     ]
   },
   {
+    "code": "CN",
     "country": "china",
     "iso": "yes",
     "name": "ustc.edu.cn",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://mirrors.ustc.edu.cn/archlinux/",
@@ -689,10 +998,14 @@
     ]
   },
   {
+    "code": "CN",
     "country": "china",
     "iso": "yes",
     "name": "wsyu.edu.cn",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.wsyu.edu.cn/archlinux/",
@@ -700,26 +1013,40 @@
     ]
   },
   {
+    "code": "CN",
     "country": "china",
     "iso": "yes",
     "name": "xjtu.edu.cn",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://mirrors.xjtu.edu.cn/archlinux/"]
+    "urls": [
+      "https://mirrors.xjtu.edu.cn/archlinux/"
+    ]
   },
   {
+    "code": "CN",
     "country": "china",
     "iso": "yes",
     "name": "zju.edu.cn",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://mirrors.zju.edu.cn/archlinux/"]
+    "urls": [
+      "http://mirrors.zju.edu.cn/archlinux/"
+    ]
   },
   {
+    "code": "CO",
     "country": "colombia",
     "iso": "yes",
     "name": "udenar.edu.co",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.udenar.edu.co/archlinux/",
@@ -727,18 +1054,28 @@
     ]
   },
   {
+    "code": "HR",
     "country": "croatia",
     "iso": "yes",
     "name": "iskon.hr",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://archlinux.iskon.hr/"]
+    "urls": [
+      "http://archlinux.iskon.hr/"
+    ]
   },
   {
+    "code": "CZ",
     "country": "czechia",
     "iso": "yes",
     "name": "dkm.cz",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.dkm.cz/archlinux/",
@@ -747,10 +1084,14 @@
     ]
   },
   {
+    "code": "CZ",
     "country": "czechia",
     "iso": "yes",
     "name": "fi.muni.cz",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://ftp.fi.muni.cz/pub/linux/arch/",
@@ -758,10 +1099,15 @@
     ]
   },
   {
+    "code": "CZ",
     "country": "czechia",
     "iso": "yes",
     "name": "gluttony.sin.cvut.cz",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://gluttony.sin.cvut.cz/arch/",
@@ -770,10 +1116,15 @@
     ]
   },
   {
+    "code": "CZ",
     "country": "czechia",
     "iso": "yes",
     "name": "it4i.cz",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.it4i.cz/arch/",
@@ -782,10 +1133,15 @@
     ]
   },
   {
+    "code": "CZ",
     "country": "czechia",
     "iso": "yes",
     "name": "nic.cz",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.nic.cz/archlinux/",
@@ -794,10 +1150,15 @@
     ]
   },
   {
+    "code": "CZ",
     "country": "czechia",
     "iso": "yes",
     "name": "sh.cvut.cz",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://ftp.sh.cvut.cz/arch/",
@@ -806,18 +1167,28 @@
     ]
   },
   {
+    "code": "CZ",
     "country": "czechia",
     "iso": "yes",
     "name": "vpsfree.cz",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://mirror.vpsfree.cz/archlinux/"]
+    "urls": [
+      "http://mirror.vpsfree.cz/archlinux/"
+    ]
   },
   {
+    "code": "DK",
     "country": "denmark",
     "iso": "yes",
     "name": "dotsrc.org",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://mirrors.dotsrc.org/archlinux/",
@@ -826,10 +1197,15 @@
     ]
   },
   {
+    "code": "DK",
     "country": "denmark",
     "iso": "yes",
     "name": "one.com",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://mirror.one.com/archlinux/",
@@ -838,10 +1214,14 @@
     ]
   },
   {
+    "code": "DK",
     "country": "denmark",
     "iso": "yes",
     "name": "safe-con.dk",
-    "protocols": ["https", "rsync"],
+    "protocols": [
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "https://mirror.safe-con.dk/archlinux/",
@@ -849,10 +1229,14 @@
     ]
   },
   {
+    "code": "EC",
     "country": "ecuador",
     "iso": "yes",
     "name": "cedia.org.ec",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.cedia.org.ec/archlinux/",
@@ -860,10 +1244,14 @@
     ]
   },
   {
+    "code": "EC",
     "country": "ecuador",
     "iso": "yes",
     "name": "espoch.edu.ec",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.espoch.edu.ec/archlinux/",
@@ -871,10 +1259,14 @@
     ]
   },
   {
+    "code": "EC",
     "country": "ecuador",
     "iso": "yes",
     "name": "uta.edu.ec",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.uta.edu.ec/archlinux/",
@@ -882,10 +1274,15 @@
     ]
   },
   {
+    "code": "EE",
     "country": "estonia",
     "iso": "yes",
     "name": "cspacehostings.com",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.cspacehostings.com/archlinux/",
@@ -894,10 +1291,15 @@
     ]
   },
   {
+    "code": "EE",
     "country": "estonia",
     "iso": "yes",
     "name": "repo.br.ee",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://repo.br.ee/arch/",
@@ -906,10 +1308,15 @@
     ]
   },
   {
+    "code": "EE",
     "country": "estonia",
     "iso": "yes",
     "name": "xtom.ee",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://mirrors.xtom.ee/archlinux/",
@@ -918,18 +1325,29 @@
     ]
   },
   {
+    "code": "FI",
     "country": "finland",
     "iso": "yes",
     "name": "arch.mcstrugs.org",
-    "protocols": ["https", "rsync"],
+    "protocols": [
+      "https",
+      "rsync"
+    ],
     "tier": 2,
-    "urls": ["https://arch.mcstrugs.org/", "rsync://arch.mcstrugs.org/"]
+    "urls": [
+      "https://arch.mcstrugs.org/",
+      "rsync://arch.mcstrugs.org/"
+    ]
   },
   {
+    "code": "FI",
     "country": "finland",
     "iso": "yes",
     "name": "arctic.lol",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.arctic.lol/ArchMirror/",
@@ -937,26 +1355,43 @@
     ]
   },
   {
+    "code": "FI",
     "country": "finland",
     "iso": "yes",
     "name": "far.fi",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 1,
-    "urls": ["http://arch.mirror.far.fi/", "rsync://arch.mirror.far.fi/"]
+    "urls": [
+      "http://arch.mirror.far.fi/",
+      "rsync://arch.mirror.far.fi/"
+    ]
   },
   {
+    "code": "FI",
     "country": "finland",
     "iso": "yes",
     "name": "hosthink.net",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://mirror.hosthink.net/archlinux/"]
+    "urls": [
+      "http://mirror.hosthink.net/archlinux/"
+    ]
   },
   {
+    "code": "FI",
     "country": "finland",
     "iso": "yes",
     "name": "kyberorg.fi",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://arch.kyberorg.fi/",
@@ -965,10 +1400,15 @@
     ]
   },
   {
+    "code": "FI",
     "country": "finland",
     "iso": "yes",
     "name": "mirror.5i.fi",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.5i.fi/archlinux/",
@@ -977,18 +1417,28 @@
     ]
   },
   {
+    "code": "FI",
     "country": "finland",
     "iso": "yes",
     "name": "srv.fail",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://mirror.srv.fail/archlinux/"]
+    "urls": [
+      "https://mirror.srv.fail/archlinux/"
+    ]
   },
   {
+    "code": "FI",
     "country": "finland",
     "iso": "yes",
     "name": "wuki.li",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.wuki.li/archlinux/",
@@ -997,10 +1447,15 @@
     ]
   },
   {
+    "code": "FI",
     "country": "finland",
     "iso": "yes",
     "name": "yhtez.xyz",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://arch.yhtez.xyz/",
@@ -1009,26 +1464,41 @@
     ]
   },
   {
+    "code": "FR",
     "country": "france",
     "iso": "yes",
     "name": "archlinux.ikoula.com",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://mirror.archlinux.ikoula.com/archlinux/"]
+    "urls": [
+      "http://mirror.archlinux.ikoula.com/archlinux/"
+    ]
   },
   {
+    "code": "FR",
     "country": "france",
     "iso": "yes",
     "name": "benatherton.com",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://archlinux.mirrors.benatherton.com/"]
+    "urls": [
+      "http://archlinux.mirrors.benatherton.com/"
+    ]
   },
   {
+    "code": "FR",
     "country": "france",
     "iso": "yes",
     "name": "cyberbits.eu",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.cyberbits.eu/archlinux/",
@@ -1037,26 +1507,42 @@
     ]
   },
   {
+    "code": "FR",
     "country": "france",
     "iso": "yes",
     "name": "datagr.am",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
-    "urls": ["http://archlinux.datagr.am/", "rsync://archlinux.datagr.am/"]
+    "urls": [
+      "http://archlinux.datagr.am/",
+      "rsync://archlinux.datagr.am/"
+    ]
   },
   {
+    "code": "FR",
     "country": "france",
     "iso": "yes",
     "name": "eric.ovh",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://mirrors.eric.ovh/arch/"]
+    "urls": [
+      "https://mirrors.eric.ovh/arch/"
+    ]
   },
   {
+    "code": "FR",
     "country": "france",
     "iso": "yes",
     "name": "gandi.net",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.gandi.net/archlinux/",
@@ -1064,10 +1550,14 @@
     ]
   },
   {
+    "code": "FR",
     "country": "france",
     "iso": "yes",
     "name": "hogwarts.fr",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://archmirror.hogwarts.fr/",
@@ -1075,26 +1565,40 @@
     ]
   },
   {
+    "code": "FR",
     "country": "france",
     "iso": "yes",
     "name": "ibakerserver.pt",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://mirror.ibakerserver.pt/Arch/"]
+    "urls": [
+      "https://mirror.ibakerserver.pt/Arch/"
+    ]
   },
   {
+    "code": "FR",
     "country": "france",
     "iso": "yes",
     "name": "ibcp.fr",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://mirror.ibcp.fr/pub/archlinux/"]
+    "urls": [
+      "http://mirror.ibcp.fr/pub/archlinux/"
+    ]
   },
   {
+    "code": "FR",
     "country": "france",
     "iso": "yes",
     "name": "jordanrey.me",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.jordanrey.me/archlinux/",
@@ -1102,18 +1606,30 @@
     ]
   },
   {
+    "code": "FR",
     "country": "france",
     "iso": "yes",
     "name": "juline.tech",
-    "protocols": ["https", "rsync"],
+    "protocols": [
+      "https",
+      "rsync"
+    ],
     "tier": 2,
-    "urls": ["https://arch.juline.tech/", "rsync://arch.juline.tech/"]
+    "urls": [
+      "https://arch.juline.tech/",
+      "rsync://arch.juline.tech/"
+    ]
   },
   {
+    "code": "FR",
     "country": "france",
     "iso": "yes",
     "name": "labhouse.fr",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirroir.labhouse.fr/arch/",
@@ -1122,10 +1638,14 @@
     ]
   },
   {
+    "code": "FR",
     "country": "france",
     "iso": "yes",
     "name": "lastmikoi.net",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.lastmikoi.net/archlinux/",
@@ -1133,18 +1653,28 @@
     ]
   },
   {
+    "code": "FR",
     "country": "france",
     "iso": "no",
     "name": "louifox.house",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://arch-mirror.cloud.louifox.house/"]
+    "urls": [
+      "https://arch-mirror.cloud.louifox.house/"
+    ]
   },
   {
+    "code": "FR",
     "country": "france",
     "iso": "yes",
     "name": "mailtunnel.eu",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://archlinux.mailtunnel.eu/",
@@ -1153,18 +1683,28 @@
     ]
   },
   {
+    "code": "FR",
     "country": "france",
     "iso": "yes",
     "name": "mir.archlinux.fr",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://mir.archlinux.fr/"]
+    "urls": [
+      "http://mir.archlinux.fr/"
+    ]
   },
   {
+    "code": "FR",
     "country": "france",
     "iso": "yes",
     "name": "mirrors.celianvdb.fr",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.celianvdb.fr/archlinux/",
@@ -1173,10 +1713,15 @@
     ]
   },
   {
+    "code": "FR",
     "country": "france",
     "iso": "yes",
     "name": "nimukaito.net",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://arch.nimukaito.net/",
@@ -1185,10 +1730,14 @@
     ]
   },
   {
+    "code": "FR",
     "country": "france",
     "iso": "yes",
     "name": "oldsql.cc",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.oldsql.cc/archlinux/",
@@ -1196,18 +1745,27 @@
     ]
   },
   {
+    "code": "FR",
     "country": "france",
     "iso": "yes",
     "name": "ovh.net",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://archlinux.mirrors.ovh.net/archlinux/"]
+    "urls": [
+      "http://archlinux.mirrors.ovh.net/archlinux/"
+    ]
   },
   {
+    "code": "FR",
     "country": "france",
     "iso": "yes",
     "name": "rezopole.net",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://archlinux.rezopole.net/",
@@ -1215,10 +1773,14 @@
     ]
   },
   {
+    "code": "FR",
     "country": "france",
     "iso": "yes",
     "name": "slaanesh.org",
-    "protocols": ["https", "rsync"],
+    "protocols": [
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "https://mirrors.slaanesh.org/archlinux/",
@@ -1226,10 +1788,14 @@
     ]
   },
   {
+    "code": "FR",
     "country": "france",
     "iso": "yes",
     "name": "spaceint.fr",
-    "protocols": ["https", "rsync"],
+    "protocols": [
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "https://mirror.spaceint.fr/archlinux/",
@@ -1237,10 +1803,14 @@
     ]
   },
   {
+    "code": "FR",
     "country": "france",
     "iso": "yes",
     "name": "standaloneinstaller.com",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.standaloneinstaller.com/archlinux/",
@@ -1248,10 +1818,14 @@
     ]
   },
   {
+    "code": "FR",
     "country": "france",
     "iso": "yes",
     "name": "sysa.tech",
-    "protocols": ["https", "rsync"],
+    "protocols": [
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "https://mirror.sysa.tech/archlinux/",
@@ -1259,18 +1833,28 @@
     ]
   },
   {
+    "code": "FR",
     "country": "france",
     "iso": "yes",
     "name": "thekinrar.fr",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://mirror.thekinrar.fr/archlinux/"]
+    "urls": [
+      "https://mirror.thekinrar.fr/archlinux/"
+    ]
   },
   {
+    "code": "FR",
     "country": "france",
     "iso": "yes",
     "name": "theo546.fr",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://mirror.theo546.fr/archlinux/",
@@ -1279,26 +1863,41 @@
     ]
   },
   {
+    "code": "FR",
     "country": "france",
     "iso": "yes",
     "name": "u-strasbg.fr",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://ftp.u-strasbg.fr/linux/distributions/archlinux/"]
+    "urls": [
+      "http://ftp.u-strasbg.fr/linux/distributions/archlinux/"
+    ]
   },
   {
+    "code": "FR",
     "country": "france",
     "iso": "yes",
     "name": "wormhole.eu",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://mirror.wormhole.eu/archlinux/"]
+    "urls": [
+      "https://mirror.wormhole.eu/archlinux/"
+    ]
   },
   {
+    "code": "FR",
     "country": "france",
     "iso": "yes",
     "name": "wptheme.fr",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirroir.wptheme.fr/archlinux/",
@@ -1307,26 +1906,45 @@
     ]
   },
   {
+    "code": "FR",
     "country": "france",
     "iso": "yes",
     "name": "yourlabs.org",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
-    "urls": ["http://arch.yourlabs.org/", "https://arch.yourlabs.org/"]
+    "urls": [
+      "http://arch.yourlabs.org/",
+      "https://arch.yourlabs.org/"
+    ]
   },
   {
+    "code": "GE",
     "country": "georgia",
     "iso": "yes",
     "name": "grena.ge",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
-    "urls": ["http://archlinux.grena.ge/", "https://archlinux.grena.ge/"]
+    "urls": [
+      "http://archlinux.grena.ge/",
+      "https://archlinux.grena.ge/"
+    ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "no",
     "name": "23m.com",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://mirror.23m.com/archlinux/",
@@ -1335,10 +1953,14 @@
     ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "agdsn.de",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://ftp.agdsn.de/pub/mirrors/archlinux/",
@@ -1346,34 +1968,54 @@
     ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "no",
     "name": "appuals.com",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://appuals.com/archlinux/"]
+    "urls": [
+      "https://appuals.com/archlinux/"
+    ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "artfiles.org",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://artfiles.org/archlinux.org/"]
+    "urls": [
+      "http://artfiles.org/archlinux.org/"
+    ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "no",
     "name": "bethselamin.de",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://mirror.bethselamin.de/"]
+    "urls": [
+      "https://mirror.bethselamin.de/"
+    ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "clientvps.com",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.clientvps.com/archlinux/",
@@ -1382,10 +2024,14 @@
     ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "cmt.de",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.cmt.de/archlinux/",
@@ -1393,10 +2039,15 @@
     ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "codefionn.eu",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://os.codefionn.eu/archlinux/",
@@ -1405,18 +2056,28 @@
     ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "dogado.de",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://mirror.dogado.de/archlinux/"]
+    "urls": [
+      "https://mirror.dogado.de/archlinux/"
+    ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "f4st.host",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://mirror.f4st.host/archlinux/",
@@ -1425,10 +2086,15 @@
     ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "fau.de",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://ftp.fau.de/archlinux/",
@@ -1437,26 +2103,42 @@
     ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "fef.moe",
-    "protocols": ["https", "rsync"],
+    "protocols": [
+      "https",
+      "rsync"
+    ],
     "tier": 2,
-    "urls": ["https://pkg.fef.moe/archlinux/", "rsync://pkg.fef.moe/archlinux/"]
+    "urls": [
+      "https://pkg.fef.moe/archlinux/",
+      "rsync://pkg.fef.moe/archlinux/"
+    ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "fem.tu-ilmenau.de",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://dist-mirror.fem.tu-ilmenau.de/archlinux/"]
+    "urls": [
+      "https://dist-mirror.fem.tu-ilmenau.de/archlinux/"
+    ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "no",
     "name": "fsrv.services",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.fsrv.services/archlinux/",
@@ -1464,26 +2146,40 @@
     ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "gnomus.de",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://mirror.gnomus.de/"]
+    "urls": [
+      "https://mirror.gnomus.de/"
+    ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "gutscheindrache.com",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://www.gutscheindrache.com/mirror/archlinux/"]
+    "urls": [
+      "http://www.gutscheindrache.com/mirror/archlinux/"
+    ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "gwdg.de",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://ftp.gwdg.de/pub/linux/archlinux/",
@@ -1491,18 +2187,27 @@
     ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "homeinfo.de",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://archlinux.homeinfo.de/"]
+    "urls": [
+      "https://archlinux.homeinfo.de/"
+    ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "honkgong.info",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://archlinux.honkgong.info/",
@@ -1510,10 +2215,14 @@
     ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "hosteurope.de",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://ftp.hosteurope.de/mirror/ftp.archlinux.org/",
@@ -1521,10 +2230,14 @@
     ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "hs-esslingen.de",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": -1,
     "urls": [
       "http://ftp-stud.hs-esslingen.de/pub/Mirrors/archlinux/",
@@ -1532,10 +2245,14 @@
     ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "informatik.tu-freiberg.de",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.informatik.tu-freiberg.de/arch/",
@@ -1543,10 +2260,14 @@
     ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "iphh.net",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://archlinux.mirror.iphh.net/",
@@ -1554,18 +2275,28 @@
     ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "iusearchbtw.nl",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://mirror.iusearchbtw.nl/"]
+    "urls": [
+      "https://mirror.iusearchbtw.nl/"
+    ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "janbruckner.de",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.janbruckner.de/archlinux/",
@@ -1574,18 +2305,30 @@
     ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "jensgutermuth.de",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
-    "urls": ["http://arch.jensgutermuth.de/", "https://arch.jensgutermuth.de/"]
+    "urls": [
+      "http://arch.jensgutermuth.de/",
+      "https://arch.jensgutermuth.de/"
+    ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "kumi.systems",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.kumi.systems/archlinux/",
@@ -1594,10 +2337,14 @@
     ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "metalgamer.eu",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.metalgamer.eu/archlinux/",
@@ -1605,10 +2352,14 @@
     ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "mikrogravitation.org",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.mikrogravitation.org/archlinux/",
@@ -1616,10 +2367,15 @@
     ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "mirror.lcarilla.de",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.lcarilla.de/archlinux/",
@@ -1628,10 +2384,15 @@
     ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "moson.org",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.moson.org/arch/",
@@ -1640,10 +2401,14 @@
     ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "n-ix.net",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.n-ix.net/archlinux/",
@@ -1651,10 +2416,15 @@
     ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "netcologne.de",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.netcologne.de/archlinux/",
@@ -1663,10 +2433,15 @@
     ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "niyawe.de",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.niyawe.de/archlinux/",
@@ -1675,10 +2450,15 @@
     ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "orbit-os.com",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.orbit-os.com/archlinux/",
@@ -1687,10 +2467,15 @@
     ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "oth-regensburg.de",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://packages.oth-regensburg.de/archlinux/",
@@ -1699,10 +2484,15 @@
     ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "no",
     "name": "pagenotfound.de",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.pagenotfound.de/archlinux/",
@@ -1711,42 +2501,71 @@
     ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "phinau.de",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
-    "urls": ["http://arch.phinau.de/", "https://arch.phinau.de/"]
+    "urls": [
+      "http://arch.phinau.de/",
+      "https://arch.phinau.de/"
+    ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "pseudoform.org",
-    "protocols": ["https", "rsync"],
+    "protocols": [
+      "https",
+      "rsync"
+    ],
     "tier": 1,
-    "urls": ["https://mirror.pseudoform.org/", "rsync://mirror.pseudoform.org/"]
+    "urls": [
+      "https://mirror.pseudoform.org/",
+      "rsync://mirror.pseudoform.org/"
+    ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "ratenzahlung.de",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://www.ratenzahlung.de/mirror/archlinux/"]
+    "urls": [
+      "https://www.ratenzahlung.de/mirror/archlinux/"
+    ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "richard-neumann.de",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://archlinux.richard-neumann.de/"]
+    "urls": [
+      "https://archlinux.richard-neumann.de/"
+    ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "rwth-aachen.de",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://ftp.halifax.rwth-aachen.de/archlinux/",
@@ -1755,18 +2574,27 @@
     ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "rz.rub.de",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://linux.rz.rub.de/archlinux/"]
+    "urls": [
+      "http://linux.rz.rub.de/archlinux/"
+    ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "satis-faction.de",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.satis-faction.de/archlinux/",
@@ -1774,10 +2602,15 @@
     ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "selfnet.de",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://mirror.selfnet.de/archlinux/",
@@ -1786,10 +2619,15 @@
     ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "spline.inf.fu-berlin.de",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://ftp.spline.inf.fu-berlin.de/mirrors/archlinux/",
@@ -1798,10 +2636,15 @@
     ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "sunred.org",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.sunred.org/archlinux/",
@@ -1810,10 +2653,15 @@
     ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "thaller.ws",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://archlinux.thaller.ws/",
@@ -1822,18 +2670,28 @@
     ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "tu-chemnitz.de",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://ftp.tu-chemnitz.de/pub/linux/archlinux/"]
+    "urls": [
+      "http://ftp.tu-chemnitz.de/pub/linux/archlinux/"
+    ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "ubrco.de",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.ubrco.de/archlinux/",
@@ -1842,10 +2700,15 @@
     ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "no",
     "name": "undisclose.de",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.undisclose.de/archlinux/",
@@ -1854,26 +2717,40 @@
     ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "uni-bayreuth.de",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://ftp.uni-bayreuth.de/linux/archlinux/"]
+    "urls": [
+      "http://ftp.uni-bayreuth.de/linux/archlinux/"
+    ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "uni-hannover.de",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://ftp.uni-hannover.de/archlinux/"]
+    "urls": [
+      "http://ftp.uni-hannover.de/archlinux/"
+    ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "uni-kl.de",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://ftp.uni-kl.de/pub/linux/archlinux/",
@@ -1881,10 +2758,14 @@
     ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "united-gameserver.de",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.united-gameserver.de/archlinux/",
@@ -1892,18 +2773,30 @@
     ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "unixpeople.org",
-    "protocols": ["https", "rsync"],
+    "protocols": [
+      "https",
+      "rsync"
+    ],
     "tier": 2,
-    "urls": ["https://arch.unixpeople.org/", "rsync://arch.unixpeople.org/"]
+    "urls": [
+      "https://arch.unixpeople.org/",
+      "rsync://arch.unixpeople.org/"
+    ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "wrz.de",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://ftp.wrz.de/pub/archlinux/",
@@ -1912,10 +2805,14 @@
     ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "wtnet.de",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.wtnet.de/archlinux/",
@@ -1923,10 +2820,15 @@
     ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "xtom.de",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://mirrors.xtom.de/archlinux/",
@@ -1935,10 +2837,14 @@
     ]
   },
   {
+    "code": "DE",
     "country": "germany",
     "iso": "yes",
     "name": "zachlge.org",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://arch.mirror.zachlge.org/",
@@ -1946,34 +2852,53 @@
     ]
   },
   {
+    "code": "GR",
     "country": "greece",
     "iso": "yes",
     "name": "cc.uoc.gr",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://ftp.cc.uoc.gr/mirrors/linux/archlinux/"]
+    "urls": [
+      "http://ftp.cc.uoc.gr/mirrors/linux/archlinux/"
+    ]
   },
   {
+    "code": "GR",
     "country": "greece",
     "iso": "yes",
     "name": "greeklug.gr",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://repo.greeklug.gr/data/pub/linux/archlinux/"]
+    "urls": [
+      "https://repo.greeklug.gr/data/pub/linux/archlinux/"
+    ]
   },
   {
+    "code": "GR",
     "country": "greece",
     "iso": "yes",
     "name": "myaegean.gr",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://mirrors.myaegean.gr/linux/archlinux/"]
+    "urls": [
+      "http://mirrors.myaegean.gr/linux/archlinux/"
+    ]
   },
   {
+    "code": "GR",
     "country": "greece",
     "iso": "yes",
     "name": "ntua.gr",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://ftp.ntua.gr/pub/linux/archlinux/",
@@ -1981,26 +2906,41 @@
     ]
   },
   {
+    "code": "GR",
     "country": "greece",
     "iso": "yes",
     "name": "otenet.gr",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": -1,
-    "urls": ["http://ftp.otenet.gr/linux/archlinux/"]
+    "urls": [
+      "http://ftp.otenet.gr/linux/archlinux/"
+    ]
   },
   {
+    "code": "HK",
     "country": "hong kong",
     "iso": "yes",
     "name": "wtako.net",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://arch-mirror.wtako.net/"]
+    "urls": [
+      "https://arch-mirror.wtako.net/"
+    ]
   },
   {
+    "code": "HK",
     "country": "hong kong",
     "iso": "yes",
     "name": "xtom.com.hk",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://mirror.xtom.com.hk/archlinux/",
@@ -2009,26 +2949,41 @@
     ]
   },
   {
+    "code": "HU",
     "country": "hungary",
     "iso": "yes",
     "name": "ek-cer.hu",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://ftp.ek-cer.hu/pub/mirrors/ftp.archlinux.org/"]
+    "urls": [
+      "https://ftp.ek-cer.hu/pub/mirrors/ftp.archlinux.org/"
+    ]
   },
   {
+    "code": "HU",
     "country": "hungary",
     "iso": "no",
     "name": "hbit.sztaki.hu",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://archmirror.hbit.sztaki.hu/archlinux/"]
+    "urls": [
+      "http://archmirror.hbit.sztaki.hu/archlinux/"
+    ]
   },
   {
+    "code": "HU",
     "country": "hungary",
     "iso": "yes",
     "name": "quantum-mirror.hu",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://nova.quantum-mirror.hu/mirrors/pub/archlinux/",
@@ -2037,10 +2992,15 @@
     ]
   },
   {
+    "code": "IS",
     "country": "iceland",
     "iso": "yes",
     "name": "system.is",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.system.is/arch/",
@@ -2049,10 +3009,15 @@
     ]
   },
   {
+    "code": "IN",
     "country": "india",
     "iso": "yes",
     "name": "4v1.in",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.4v1.in/archlinux/",
@@ -2061,34 +3026,53 @@
     ]
   },
   {
+    "code": "IN",
     "country": "india",
     "iso": "yes",
     "name": "abhy.me",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://mirrors.abhy.me/archlinux/"]
+    "urls": [
+      "https://mirrors.abhy.me/archlinux/"
+    ]
   },
   {
+    "code": "IN",
     "country": "india",
     "iso": "yes",
     "name": "albony.xyz",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://mirror.albony.xyz/archlinux/"]
+    "urls": [
+      "https://mirror.albony.xyz/archlinux/"
+    ]
   },
   {
+    "code": "IN",
     "country": "india",
     "iso": "yes",
     "name": "cse.iitk.ac.in",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://mirror.cse.iitk.ac.in/archlinux/"]
+    "urls": [
+      "http://mirror.cse.iitk.ac.in/archlinux/"
+    ]
   },
   {
+    "code": "IN",
     "country": "india",
     "iso": "yes",
     "name": "garudalinux.org",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://in-mirror.garudalinux.org/archlinux/",
@@ -2096,10 +3080,14 @@
     ]
   },
   {
+    "code": "IN",
     "country": "india",
     "iso": "yes",
     "name": "mirror.net.in",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://archlinux.mirror.net.in/archlinux/",
@@ -2107,10 +3095,14 @@
     ]
   },
   {
+    "code": "IN",
     "country": "india",
     "iso": "yes",
     "name": "mirrors.vishnetwork.in",
-    "protocols": ["https", "rsync"],
+    "protocols": [
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "https://mirrors.vishnetwork.in/archlinux/",
@@ -2118,10 +3110,14 @@
     ]
   },
   {
+    "code": "IN",
     "country": "india",
     "iso": "yes",
     "name": "nxtgen.com",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.nxtgen.com/archlinux-mirror/",
@@ -2129,10 +3125,14 @@
     ]
   },
   {
+    "code": "IN",
     "country": "india",
     "iso": "yes",
     "name": "piconets.webwerks.in",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.piconets.webwerks.in/archlinux-mirror/",
@@ -2140,10 +3140,14 @@
     ]
   },
   {
+    "code": "IN",
     "country": "india",
     "iso": "yes",
     "name": "sahil.world",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.sahil.world/archlinux/",
@@ -2151,10 +3155,14 @@
     ]
   },
   {
+    "code": "ID",
     "country": "indonesia",
     "iso": "yes",
     "name": "cloudweeb.com",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.cloudweeb.com/archlinux/",
@@ -2162,18 +3170,28 @@
     ]
   },
   {
+    "code": "ID",
     "country": "indonesia",
     "iso": "yes",
     "name": "faizuladib.com",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://mirror.faizuladib.com/archlinux/"]
+    "urls": [
+      "http://mirror.faizuladib.com/archlinux/"
+    ]
   },
   {
+    "code": "ID",
     "country": "indonesia",
     "iso": "yes",
     "name": "gi.co.id",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.gi.co.id/archlinux/",
@@ -2182,10 +3200,15 @@
     ]
   },
   {
+    "code": "ID",
     "country": "indonesia",
     "iso": "yes",
     "name": "jagoanhosting.com",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://vpsmurah.jagoanhosting.com/archlinux/",
@@ -2194,18 +3217,27 @@
     ]
   },
   {
+    "code": "ID",
     "country": "indonesia",
     "iso": "yes",
     "name": "kebo.pens.ac.id",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://kebo.pens.ac.id/archlinux/"]
+    "urls": [
+      "http://kebo.pens.ac.id/archlinux/"
+    ]
   },
   {
+    "code": "ID",
     "country": "indonesia",
     "iso": "yes",
     "name": "labkom.id",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.labkom.id/archlinux/",
@@ -2213,10 +3245,14 @@
     ]
   },
   {
+    "code": "ID",
     "country": "indonesia",
     "iso": "yes",
     "name": "mirror.ditatompel.com",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.ditatompel.com/archlinux/",
@@ -2224,10 +3260,15 @@
     ]
   },
   {
+    "code": "ID",
     "country": "indonesia",
     "iso": "yes",
     "name": "papua.go.id",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.papua.go.id/archlinux/",
@@ -2236,18 +3277,28 @@
     ]
   },
   {
+    "code": "ID",
     "country": "indonesia",
     "iso": "yes",
     "name": "poliwangi.ac.id",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://mirror.poliwangi.ac.id/archlinux/"]
+    "urls": [
+      "http://mirror.poliwangi.ac.id/archlinux/"
+    ]
   },
   {
+    "code": "ID",
     "country": "indonesia",
     "iso": "yes",
     "name": "repository.id",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.repository.id/archlinux/",
@@ -2256,18 +3307,27 @@
     ]
   },
   {
+    "code": "ID",
     "country": "indonesia",
     "iso": "yes",
     "name": "suro.ubaya.ac.id",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://suro.ubaya.ac.id/archlinux/"]
+    "urls": [
+      "http://suro.ubaya.ac.id/archlinux/"
+    ]
   },
   {
+    "code": "ID",
     "country": "indonesia",
     "iso": "yes",
     "name": "telkomuniversity.ac.id",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.telkomuniversity.ac.id/archlinux/",
@@ -2275,10 +3335,14 @@
     ]
   },
   {
+    "code": "IR",
     "country": "iran",
     "iso": "no",
     "name": "arvancloud.com",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.arvancloud.com/archlinux/",
@@ -2286,10 +3350,14 @@
     ]
   },
   {
+    "code": "IR",
     "country": "iran",
     "iso": "yes",
     "name": "bardia.tech",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.bardia.tech/archlinux/",
@@ -2297,10 +3365,14 @@
     ]
   },
   {
+    "code": "IR",
     "country": "iran",
     "iso": "no",
     "name": "hostiran.ir",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.hostiran.ir/archlinux/",
@@ -2308,26 +3380,40 @@
     ]
   },
   {
+    "code": "IR",
     "country": "iran",
     "iso": "yes",
     "name": "iut.ac.ir",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://repo.iut.ac.ir/repo/archlinux/"]
+    "urls": [
+      "http://repo.iut.ac.ir/repo/archlinux/"
+    ]
   },
   {
+    "code": "IR",
     "country": "iran",
     "iso": "yes",
     "name": "nak-mci.ir",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://mirror.nak-mci.ir/arch/"]
+    "urls": [
+      "http://mirror.nak-mci.ir/arch/"
+    ]
   },
   {
+    "code": "IE",
     "country": "ireland",
     "iso": "yes",
     "name": "heanet.ie",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://ftp.heanet.ie/mirrors/ftp.archlinux.org/",
@@ -2335,10 +3421,15 @@
     ]
   },
   {
+    "code": "IL",
     "country": "israel",
     "iso": "yes",
     "name": "interhost.co.il",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://archlinux.interhost.co.il/",
@@ -2347,10 +3438,14 @@
     ]
   },
   {
+    "code": "IL",
     "country": "israel",
     "iso": "yes",
     "name": "isoc.org.il",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": -1,
     "urls": [
       "http://mirror.isoc.org.il/pub/archlinux/",
@@ -2358,34 +3453,55 @@
     ]
   },
   {
+    "code": "IL",
     "country": "israel",
     "iso": "yes",
     "name": "mivzakim.net",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://archlinux.mivzakim.net/"]
+    "urls": [
+      "https://archlinux.mivzakim.net/"
+    ]
   },
   {
+    "code": "IT",
     "country": "italy",
     "iso": "yes",
     "name": "archmirror.it",
-    "protocols": ["https", "rsync"],
+    "protocols": [
+      "https",
+      "rsync"
+    ],
     "tier": 2,
-    "urls": ["https://archmirror.it/repos/", "rsync://archmirror.it/repos/"]
+    "urls": [
+      "https://archmirror.it/repos/",
+      "rsync://archmirror.it/repos/"
+    ]
   },
   {
+    "code": "IT",
     "country": "italy",
     "iso": "yes",
     "name": "garr.it",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://archlinux.mirror.garr.it/archlinux/"]
+    "urls": [
+      "http://archlinux.mirror.garr.it/archlinux/"
+    ]
   },
   {
+    "code": "IT",
     "country": "italy",
     "iso": "no",
     "name": "server24.net",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://archlinux.mirror.server24.net/",
@@ -2393,10 +3509,14 @@
     ]
   },
   {
+    "code": "JP",
     "country": "japan",
     "iso": "yes",
     "name": "cat.net",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.cat.net/archlinux/",
@@ -2404,10 +3524,14 @@
     ]
   },
   {
+    "code": "JP",
     "country": "japan",
     "iso": "yes",
     "name": "ftp.tsukuba.wide.ad.jp",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://ftp.tsukuba.wide.ad.jp/Linux/archlinux/",
@@ -2415,10 +3539,15 @@
     ]
   },
   {
+    "code": "JP",
     "country": "japan",
     "iso": "yes",
     "name": "jaist.ac.jp",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://ftp.jaist.ac.jp/pub/Linux/ArchLinux/",
@@ -2427,10 +3556,14 @@
     ]
   },
   {
+    "code": "JP",
     "country": "japan",
     "iso": "yes",
     "name": "saebasol.org",
-    "protocols": ["https", "rsync"],
+    "protocols": [
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "https://mirror.saebasol.org/archlinux/",
@@ -2438,10 +3571,15 @@
     ]
   },
   {
+    "code": "KZ",
     "country": "kazakhstan",
     "iso": "yes",
     "name": "hoster.kz",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.hoster.kz/archlinux/",
@@ -2450,10 +3588,15 @@
     ]
   },
   {
+    "code": "KZ",
     "country": "kazakhstan",
     "iso": "yes",
     "name": "ps.kz",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.ps.kz/archlinux/",
@@ -2462,10 +3605,15 @@
     ]
   },
   {
+    "code": "KE",
     "country": "kenya",
     "iso": "yes",
     "name": "liquidtelecom.com",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://archlinux.mirror.liquidtelecom.com/",
@@ -2474,10 +3622,15 @@
     ]
   },
   {
+    "code": "LV",
     "country": "latvia",
     "iso": "yes",
     "name": "koyanet.lv",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://archlinux.koyanet.lv/archlinux/",
@@ -2486,10 +3639,15 @@
     ]
   },
   {
+    "code": "LT",
     "country": "lithuania",
     "iso": "yes",
     "name": "atviras.lt",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://mirrors.atviras.lt/archlinux/",
@@ -2498,10 +3656,15 @@
     ]
   },
   {
+    "code": "LT",
     "country": "lithuania",
     "iso": "yes",
     "name": "ims.nksc.lt",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.ims.nksc.lt/archlinux/",
@@ -2510,10 +3673,15 @@
     ]
   },
   {
+    "code": "LU",
     "country": "luxembourg",
     "iso": "yes",
     "name": "archmirror.xyz",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://archmirror.xyz/archlinux/",
@@ -2522,18 +3690,27 @@
     ]
   },
   {
+    "code": "LU",
     "country": "luxembourg",
     "iso": "yes",
     "name": "root.lu",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://archlinux.mirror.root.lu/"]
+    "urls": [
+      "http://archlinux.mirror.root.lu/"
+    ]
   },
   {
+    "code": "MU",
     "country": "mauritius",
     "iso": "yes",
     "name": "archlinux-mirror.cloud.mu",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://archlinux-mirror.cloud.mu/",
@@ -2541,18 +3718,27 @@
     ]
   },
   {
+    "code": "MX",
     "country": "mexico",
     "iso": "yes",
     "name": "jsc.mx",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://arch.jsc.mx/"]
+    "urls": [
+      "https://arch.jsc.mx/"
+    ]
   },
   {
+    "code": "MD",
     "country": "moldova",
     "iso": "yes",
     "name": "hacktegic.com",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://md.mirrors.hacktegic.com/archlinux/",
@@ -2560,10 +3746,15 @@
     ]
   },
   {
+    "code": "MD",
     "country": "moldova",
     "iso": "yes",
     "name": "ihost.md",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://mirror.ihost.md/archlinux/",
@@ -2572,10 +3763,15 @@
     ]
   },
   {
+    "code": "MD",
     "country": "moldova",
     "iso": "yes",
     "name": "mangohost.net",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.mangohost.net/archlinux/",
@@ -2584,10 +3780,15 @@
     ]
   },
   {
+    "code": "MC",
     "country": "monaco",
     "iso": "yes",
     "name": "qontinuum.space",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.qontinuum.space/archlinux/",
@@ -2596,10 +3797,15 @@
     ]
   },
   {
+    "code": "NL",
     "country": "netherlands",
     "iso": "yes",
     "name": "cj2.nl",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.cj2.nl/archlinux/",
@@ -2608,26 +3814,41 @@
     ]
   },
   {
+    "code": "NL",
     "country": "netherlands",
     "iso": "yes",
     "name": "daan.vodka",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://mirrors.daan.vodka/archlinux/"]
+    "urls": [
+      "https://mirrors.daan.vodka/archlinux/"
+    ]
   },
   {
+    "code": "NL",
     "country": "netherlands",
     "iso": "yes",
     "name": "evoluso.com",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://mirrors.evoluso.com/archlinux/"]
+    "urls": [
+      "http://mirrors.evoluso.com/archlinux/"
+    ]
   },
   {
+    "code": "NL",
     "country": "netherlands",
     "iso": "yes",
     "name": "i3d.net",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.i3d.net/pub/archlinux/",
@@ -2636,18 +3857,27 @@
     ]
   },
   {
+    "code": "NL",
     "country": "netherlands",
     "iso": "no",
     "name": "jeweet.net",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://arch.jeweet.net/"]
+    "urls": [
+      "https://arch.jeweet.net/"
+    ]
   },
   {
+    "code": "NL",
     "country": "netherlands",
     "iso": "yes",
     "name": "lavatech.top",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://arch.mirrors.lavatech.top/",
@@ -2655,10 +3885,15 @@
     ]
   },
   {
+    "code": "NL",
     "country": "netherlands",
     "iso": "yes",
     "name": "liteserver.nl",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://archlinux.mirror.liteserver.nl/",
@@ -2667,10 +3902,14 @@
     ]
   },
   {
+    "code": "NL",
     "country": "netherlands",
     "iso": "yes",
     "name": "lyrahosting.com",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.lyrahosting.com/archlinux/",
@@ -2678,10 +3917,14 @@
     ]
   },
   {
+    "code": "NL",
     "country": "netherlands",
     "iso": "no",
     "name": "mijn.host",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.mijn.host/archlinux/",
@@ -2689,10 +3932,15 @@
     ]
   },
   {
+    "code": "NL",
     "country": "netherlands",
     "iso": "yes",
     "name": "neostrada.nl",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.neostrada.nl/archlinux/",
@@ -2701,10 +3949,14 @@
     ]
   },
   {
+    "code": "NL",
     "country": "netherlands",
     "iso": "yes",
     "name": "nluug.nl",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://ftp.nluug.nl/os/Linux/distr/archlinux/",
@@ -2712,10 +3964,15 @@
     ]
   },
   {
+    "code": "NL",
     "country": "netherlands",
     "iso": "yes",
     "name": "pcextreme.nl",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://archlinux.mirror.pcextreme.nl/",
@@ -2724,10 +3981,15 @@
     ]
   },
   {
+    "code": "NL",
     "country": "netherlands",
     "iso": "yes",
     "name": "serverion.com",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.serverion.com/archlinux/",
@@ -2736,10 +3998,14 @@
     ]
   },
   {
+    "code": "NL",
     "country": "netherlands",
     "iso": "yes",
     "name": "snt.utwente.nl",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://ftp.snt.utwente.nl/pub/os/linux/archlinux/",
@@ -2747,10 +4013,15 @@
     ]
   },
   {
+    "code": "NL",
     "country": "netherlands",
     "iso": "yes",
     "name": "tarellia.net",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.tarellia.net/distr/archlinux/",
@@ -2759,10 +4030,14 @@
     ]
   },
   {
+    "code": "NL",
     "country": "netherlands",
     "iso": "yes",
     "name": "viflcraft.top",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.viflcraft.top/archlinux/",
@@ -2770,10 +4045,15 @@
     ]
   },
   {
+    "code": "NL",
     "country": "netherlands",
     "iso": "yes",
     "name": "wearetriple.com",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://archlinux.mirror.wearetriple.com/",
@@ -2782,10 +4062,14 @@
     ]
   },
   {
+    "code": "NL",
     "country": "netherlands",
     "iso": "yes",
     "name": "webruimtehosting.nl",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror-archlinux.webruimtehosting.nl/",
@@ -2793,10 +4077,14 @@
     ]
   },
   {
+    "code": "NL",
     "country": "netherlands",
     "iso": "yes",
     "name": "xtom.nl",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.xtom.nl/archlinux/",
@@ -2804,10 +4092,14 @@
     ]
   },
   {
+    "code": "NC",
     "country": "new caledonia",
     "iso": "yes",
     "name": "lagoon.nc",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.lagoon.nc/pub/archlinux/",
@@ -2815,10 +4107,15 @@
     ]
   },
   {
+    "code": "NC",
     "country": "new caledonia",
     "iso": "yes",
     "name": "nautile.nc",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://archlinux.nautile.nc/archlinux/",
@@ -2827,10 +4124,15 @@
     ]
   },
   {
+    "code": "NZ",
     "country": "new zealand",
     "iso": "yes",
     "name": "2degrees.nz",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.2degrees.nz/archlinux/",
@@ -2839,10 +4141,15 @@
     ]
   },
   {
+    "code": "NZ",
     "country": "new zealand",
     "iso": "yes",
     "name": "fsmg.org.nz",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://mirror.fsmg.org.nz/archlinux/",
@@ -2851,18 +4158,28 @@
     ]
   },
   {
+    "code": "NZ",
     "country": "new zealand",
     "iso": "yes",
     "name": "ourhome.kiwi",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://archlinux.ourhome.kiwi/"]
+    "urls": [
+      "https://archlinux.ourhome.kiwi/"
+    ]
   },
   {
+    "code": "NZ",
     "country": "new zealand",
     "iso": "yes",
     "name": "smith.geek.nz",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.smith.geek.nz/archlinux/",
@@ -2871,18 +4188,27 @@
     ]
   },
   {
+    "code": "MK",
     "country": "north macedonia",
     "iso": "yes",
     "name": "arch.softver.org.mk",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://arch.softver.org.mk/archlinux/"]
+    "urls": [
+      "http://arch.softver.org.mk/archlinux/"
+    ]
   },
   {
+    "code": "MK",
     "country": "north macedonia",
     "iso": "yes",
     "name": "onevip.mk",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.onevip.mk/archlinux/",
@@ -2890,10 +4216,15 @@
     ]
   },
   {
+    "code": "MK",
     "country": "north macedonia",
     "iso": "yes",
     "name": "t-home.mk",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.t-home.mk/archlinux/",
@@ -2902,26 +4233,42 @@
     ]
   },
   {
+    "code": "NO",
     "country": "norway",
     "iso": "yes",
     "name": "archlinux.no",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
-    "urls": ["http://mirror.archlinux.no/", "https://mirror.archlinux.no/"]
+    "urls": [
+      "http://mirror.archlinux.no/",
+      "https://mirror.archlinux.no/"
+    ]
   },
   {
+    "code": "NO",
     "country": "norway",
     "iso": "yes",
     "name": "archlinux.uib.no",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://archlinux.uib.no/"]
+    "urls": [
+      "http://archlinux.uib.no/"
+    ]
   },
   {
+    "code": "NO",
     "country": "norway",
     "iso": "yes",
     "name": "lysakermoen.com",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://lysakermoen.com/Software/Linux/Mirrors/ArchLinux/",
@@ -2929,10 +4276,15 @@
     ]
   },
   {
+    "code": "NO",
     "country": "norway",
     "iso": "yes",
     "name": "neuf.no",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://mirror.neuf.no/archlinux/",
@@ -2941,26 +4293,40 @@
     ]
   },
   {
+    "code": "NO",
     "country": "norway",
     "iso": "yes",
     "name": "terrahost.no",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://mirror.terrahost.no/linux/archlinux/"]
+    "urls": [
+      "http://mirror.terrahost.no/linux/archlinux/"
+    ]
   },
   {
+    "code": "PY",
     "country": "paraguay",
     "iso": "yes",
     "name": "mirror.py",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://archlinux.mirror.py/archlinux/"]
+    "urls": [
+      "http://archlinux.mirror.py/archlinux/"
+    ]
   },
   {
+    "code": "PL",
     "country": "poland",
     "iso": "yes",
     "name": "eloteam.tk",
-    "protocols": ["https", "rsync"],
+    "protocols": [
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "https://mirror.eloteam.tk/archlinux/",
@@ -2968,10 +4334,15 @@
     ]
   },
   {
+    "code": "PL",
     "country": "poland",
     "iso": "yes",
     "name": "icm.edu.pl",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://ftp.icm.edu.pl/pub/Linux/dist/archlinux/",
@@ -2980,10 +4351,15 @@
     ]
   },
   {
+    "code": "PL",
     "country": "poland",
     "iso": "yes",
     "name": "juniorjpdj.pl",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.juniorjpdj.pl/archlinux/",
@@ -2992,18 +4368,29 @@
     ]
   },
   {
+    "code": "PL",
     "country": "poland",
     "iso": "yes",
     "name": "midov.pl",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
-    "urls": ["http://arch.midov.pl/arch/", "https://arch.midov.pl/arch/"]
+    "urls": [
+      "http://arch.midov.pl/arch/",
+      "https://arch.midov.pl/arch/"
+    ]
   },
   {
+    "code": "PL",
     "country": "poland",
     "iso": "yes",
     "name": "onet.pl",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://mirror.onet.pl/pub/mirrors/archlinux/",
@@ -3011,10 +4398,14 @@
     ]
   },
   {
+    "code": "PL",
     "country": "poland",
     "iso": "yes",
     "name": "piotrkosoft.net",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://piotrkosoft.net/pub/mirrors/ftp.archlinux.org/",
@@ -3022,10 +4413,14 @@
     ]
   },
   {
+    "code": "PL",
     "country": "poland",
     "iso": "yes",
     "name": "psnc.pl",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://ftp.psnc.pl/linux/archlinux/",
@@ -3033,18 +4428,30 @@
     ]
   },
   {
+    "code": "PL",
     "country": "poland",
     "iso": "yes",
     "name": "sakamoto.pl",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
-    "urls": ["http://arch.sakamoto.pl/", "https://arch.sakamoto.pl/"]
+    "urls": [
+      "http://arch.sakamoto.pl/",
+      "https://arch.sakamoto.pl/"
+    ]
   },
   {
+    "code": "PL",
     "country": "poland",
     "iso": "yes",
     "name": "skni.umcs.pl",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://repo.skni.umcs.pl/archlinux/",
@@ -3053,10 +4460,14 @@
     ]
   },
   {
+    "code": "PL",
     "country": "poland",
     "iso": "yes",
     "name": "vectranet.pl",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://ftp.vectranet.pl/archlinux/",
@@ -3064,10 +4475,15 @@
     ]
   },
   {
+    "code": "PT",
     "country": "portugal",
     "iso": "yes",
     "name": "glua.ua.pt",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://glua.ua.pt/pub/archlinux/",
@@ -3076,10 +4492,15 @@
     ]
   },
   {
+    "code": "PT",
     "country": "portugal",
     "iso": "yes",
     "name": "mirrors.up.pt",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.up.pt/pub/archlinux/",
@@ -3088,10 +4509,15 @@
     ]
   },
   {
+    "code": "PT",
     "country": "portugal",
     "iso": "yes",
     "name": "rnl.tecnico.ulisboa.pt",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://ftp.rnl.tecnico.ulisboa.pt/pub/archlinux/",
@@ -3100,10 +4526,14 @@
     ]
   },
   {
+    "code": "RO",
     "country": "romania",
     "iso": "yes",
     "name": "chroot.ro",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.chroot.ro/archlinux/",
@@ -3111,10 +4541,15 @@
     ]
   },
   {
+    "code": "RO",
     "country": "romania",
     "iso": "yes",
     "name": "efect.ro",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.efect.ro/archlinux/",
@@ -3123,10 +4558,15 @@
     ]
   },
   {
+    "code": "RO",
     "country": "romania",
     "iso": "yes",
     "name": "flokinet.net",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.flokinet.net/archlinux/",
@@ -3135,10 +4575,15 @@
     ]
   },
   {
+    "code": "RO",
     "country": "romania",
     "iso": "no",
     "name": "go.ro",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.go.ro/archlinux/",
@@ -3147,10 +4592,14 @@
     ]
   },
   {
+    "code": "RO",
     "country": "romania",
     "iso": "no",
     "name": "hostico.ro",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.hostico.ro/archlinux/",
@@ -3158,10 +4607,14 @@
     ]
   },
   {
+    "code": "RO",
     "country": "romania",
     "iso": "yes",
     "name": "linux.ro",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://archlinux.mirrors.linux.ro/",
@@ -3169,10 +4622,14 @@
     ]
   },
   {
+    "code": "RO",
     "country": "romania",
     "iso": "yes",
     "name": "m247.ro",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.m247.ro/archlinux/",
@@ -3180,10 +4637,14 @@
     ]
   },
   {
+    "code": "RO",
     "country": "romania",
     "iso": "yes",
     "name": "nav.ro",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.nav.ro/archlinux/",
@@ -3191,10 +4652,15 @@
     ]
   },
   {
+    "code": "RO",
     "country": "romania",
     "iso": "yes",
     "name": "nxthost.com",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.nxthost.com/archlinux/",
@@ -3203,10 +4669,15 @@
     ]
   },
   {
+    "code": "RO",
     "country": "romania",
     "iso": "yes",
     "name": "pidginhost.com",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://mirrors.pidginhost.com/arch/",
@@ -3215,10 +4686,14 @@
     ]
   },
   {
+    "code": "RU",
     "country": "russia",
     "iso": "yes",
     "name": "kamtv.ru",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.kamtv.ru/archlinux/",
@@ -3226,10 +4701,15 @@
     ]
   },
   {
+    "code": "RU",
     "country": "russia",
     "iso": "yes",
     "name": "lebedinets.ru",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.lebedinets.ru/archlinux/",
@@ -3238,10 +4718,15 @@
     ]
   },
   {
+    "code": "RU",
     "country": "russia",
     "iso": "yes",
     "name": "mirror.surf",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://mirror.surf/archlinux/",
@@ -3250,10 +4735,15 @@
     ]
   },
   {
+    "code": "RU",
     "country": "russia",
     "iso": "yes",
     "name": "nw-sys.ru",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.nw-sys.ru/archlinux/",
@@ -3262,10 +4752,14 @@
     ]
   },
   {
+    "code": "RU",
     "country": "russia",
     "iso": "yes",
     "name": "powernet.com.ru",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.powernet.com.ru/archlinux/",
@@ -3273,10 +4767,14 @@
     ]
   },
   {
+    "code": "RU",
     "country": "russia",
     "iso": "yes",
     "name": "rol.ru",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.rol.ru/archlinux/",
@@ -3284,10 +4782,15 @@
     ]
   },
   {
+    "code": "RU",
     "country": "russia",
     "iso": "yes",
     "name": "truenetwork.ru",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.truenetwork.ru/archlinux/",
@@ -3296,10 +4799,14 @@
     ]
   },
   {
+    "code": "RU",
     "country": "russia",
     "iso": "yes",
     "name": "yandex.ru",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": -1,
     "urls": [
       "http://mirror.yandex.ru/archlinux/",
@@ -3307,42 +4814,67 @@
     ]
   },
   {
+    "code": "RU",
     "country": "russia",
     "iso": "yes",
     "name": "zepto.cloud",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://archlinux.zepto.cloud/"]
+    "urls": [
+      "http://archlinux.zepto.cloud/"
+    ]
   },
   {
+    "code": "RE",
     "country": "réunion",
     "iso": "yes",
     "name": "mithril.re",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://arch.mithril.re/"]
+    "urls": [
+      "http://arch.mithril.re/"
+    ]
   },
   {
+    "code": "CS",
     "country": "serbia",
     "iso": "no",
     "name": "petarmaric.com",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://arch.petarmaric.com/"]
+    "urls": [
+      "http://arch.petarmaric.com/"
+    ]
   },
   {
+    "code": "CS",
     "country": "serbia",
     "iso": "yes",
     "name": "pmf.kg.ac.rs",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://mirror.pmf.kg.ac.rs/archlinux/"]
+    "urls": [
+      "http://mirror.pmf.kg.ac.rs/archlinux/"
+    ]
   },
   {
+    "code": "SG",
     "country": "singapore",
     "iso": "yes",
     "name": "0x.sg",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.0x.sg/archlinux/",
@@ -3351,10 +4883,15 @@
     ]
   },
   {
+    "code": "SG",
     "country": "singapore",
     "iso": "yes",
     "name": "aktkn.sg",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.aktkn.sg/archlinux/",
@@ -3363,10 +4900,14 @@
     ]
   },
   {
+    "code": "SG",
     "country": "singapore",
     "iso": "yes",
     "name": "download.nus.edu.sg",
-    "protocols": ["https", "rsync"],
+    "protocols": [
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "https://download.nus.edu.sg/mirror/archlinux/",
@@ -3374,10 +4915,15 @@
     ]
   },
   {
+    "code": "SG",
     "country": "singapore",
     "iso": "yes",
     "name": "guillaumea.fr",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://mirror.guillaumea.fr/archlinux/",
@@ -3386,10 +4932,15 @@
     ]
   },
   {
+    "code": "SG",
     "country": "singapore",
     "iso": "yes",
     "name": "jingk.ai",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.jingk.ai/archlinux/",
@@ -3398,10 +4949,14 @@
     ]
   },
   {
+    "code": "SG",
     "country": "singapore",
     "iso": "yes",
     "name": "ossmirror.mycloud.services",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://ossmirror.mycloud.services/os/linux/archlinux/",
@@ -3409,10 +4964,14 @@
     ]
   },
   {
+    "code": "SG",
     "country": "singapore",
     "iso": "yes",
     "name": "sg.gs",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.sg.gs/archlinux/",
@@ -3420,10 +4979,14 @@
     ]
   },
   {
+    "code": "SK",
     "country": "slovakia",
     "iso": "yes",
     "name": "lnx.sk",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.lnx.sk/pub/linux/archlinux/",
@@ -3431,10 +4994,14 @@
     ]
   },
   {
+    "code": "SK",
     "country": "slovakia",
     "iso": "yes",
     "name": "rainside.sk",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://tux.rainside.sk/archlinux/",
@@ -3442,10 +5009,15 @@
     ]
   },
   {
+    "code": "SI",
     "country": "slovenia",
     "iso": "yes",
     "name": "archimonde.ts.si",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://archimonde.ts.si/archlinux/",
@@ -3454,18 +5026,29 @@
     ]
   },
   {
+    "code": "SI",
     "country": "slovenia",
     "iso": "yes",
     "name": "tux.si",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
-    "urls": ["http://mirror.tux.si/arch/", "https://mirror.tux.si/arch/"]
+    "urls": [
+      "http://mirror.tux.si/arch/",
+      "https://mirror.tux.si/arch/"
+    ]
   },
   {
+    "code": "ZA",
     "country": "south africa",
     "iso": "yes",
     "name": "is.co.za",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.is.co.za/mirror/archlinux.org/",
@@ -3473,10 +5056,14 @@
     ]
   },
   {
+    "code": "ZA",
     "country": "south africa",
     "iso": "yes",
     "name": "urbanwave.co.za",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.urbanwave.co.za/archlinux/",
@@ -3484,10 +5071,14 @@
     ]
   },
   {
+    "code": "KR",
     "country": "south korea",
     "iso": "yes",
     "name": "anigil.com",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.anigil.com/archlinux/",
@@ -3495,10 +5086,15 @@
     ]
   },
   {
+    "code": "KR",
     "country": "south korea",
     "iso": "yes",
     "name": "funami.tech",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://mirror.funami.tech/arch/",
@@ -3507,10 +5103,15 @@
     ]
   },
   {
+    "code": "KR",
     "country": "south korea",
     "iso": "yes",
     "name": "harukasan.org",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://ftp.harukasan.org/archlinux/",
@@ -3519,10 +5120,14 @@
     ]
   },
   {
+    "code": "KR",
     "country": "south korea",
     "iso": "yes",
     "name": "lanet.kr",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://ftp.lanet.kr/pub/archlinux/",
@@ -3530,10 +5135,15 @@
     ]
   },
   {
+    "code": "KR",
     "country": "south korea",
     "iso": "yes",
     "name": "misakamikoto.network",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.misakamikoto.network/archlinux/",
@@ -3542,10 +5152,14 @@
     ]
   },
   {
+    "code": "KR",
     "country": "south korea",
     "iso": "yes",
     "name": "premi.st",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.premi.st/archlinux/",
@@ -3553,18 +5167,29 @@
     ]
   },
   {
+    "code": "ES",
     "country": "spain",
     "iso": "yes",
     "name": "cloroformo.org",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://mirror.cloroformo.org/archlinux/"]
+    "urls": [
+      "https://mirror.cloroformo.org/archlinux/"
+    ]
   },
   {
+    "code": "ES",
     "country": "spain",
     "iso": "yes",
     "name": "librelabucm.org",
-    "protocols": ["http", "https", "rsync", "ftp"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync",
+      "ftp"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.librelabucm.org/archlinux/",
@@ -3574,10 +5199,14 @@
     ]
   },
   {
+    "code": "ES",
     "country": "spain",
     "iso": "yes",
     "name": "mirrors.marquitos.space",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.marquitos.space/archlinux/",
@@ -3585,18 +5214,28 @@
     ]
   },
   {
+    "code": "ES",
     "country": "spain",
     "iso": "yes",
     "name": "rediris.es",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://ftp.rediris.es/mirror/archlinux/"]
+    "urls": [
+      "http://ftp.rediris.es/mirror/archlinux/"
+    ]
   },
   {
+    "code": "SE",
     "country": "sweden",
     "iso": "yes",
     "name": "acc.umu.se",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://ftp.acc.umu.se/mirror/archlinux/",
@@ -3605,10 +5244,14 @@
     ]
   },
   {
+    "code": "SE",
     "country": "sweden",
     "iso": "yes",
     "name": "infania.net",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://ftpmirror.infania.net/mirror/archlinux/",
@@ -3616,18 +5259,28 @@
     ]
   },
   {
+    "code": "SE",
     "country": "sweden",
     "iso": "yes",
     "name": "ludd.ltu.se",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://ftp.ludd.ltu.se/mirrors/archlinux/"]
+    "urls": [
+      "https://ftp.ludd.ltu.se/mirrors/archlinux/"
+    ]
   },
   {
+    "code": "SE",
     "country": "sweden",
     "iso": "yes",
     "name": "lysator.liu.se",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://ftp.lysator.liu.se/pub/archlinux/",
@@ -3636,10 +5289,15 @@
     ]
   },
   {
+    "code": "SE",
     "country": "sweden",
     "iso": "yes",
     "name": "mirror.bahnhof.net",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.bahnhof.net/pub/archlinux/",
@@ -3648,10 +5306,15 @@
     ]
   },
   {
+    "code": "SE",
     "country": "sweden",
     "iso": "yes",
     "name": "myrveln.se",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://ftp.myrveln.se/pub/linux/archlinux/",
@@ -3660,10 +5323,14 @@
     ]
   },
   {
+    "code": "SE",
     "country": "sweden",
     "iso": "yes",
     "name": "osbeck.com",
-    "protocols": ["https", "rsync"],
+    "protocols": [
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "https://mirror.osbeck.com/archlinux/",
@@ -3671,10 +5338,15 @@
     ]
   },
   {
+    "code": "CH",
     "country": "switzerland",
     "iso": "yes",
     "name": "adfinis.com",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://pkg.adfinis.com/archlinux/",
@@ -3683,10 +5355,15 @@
     ]
   },
   {
+    "code": "CH",
     "country": "switzerland",
     "iso": "no",
     "name": "init7.net",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.init7.net/archlinux/",
@@ -3695,10 +5372,14 @@
     ]
   },
   {
+    "code": "CH",
     "country": "switzerland",
     "iso": "yes",
     "name": "metanet.ch",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.metanet.ch/archlinux/",
@@ -3706,10 +5387,15 @@
     ]
   },
   {
+    "code": "CH",
     "country": "switzerland",
     "iso": "yes",
     "name": "mirror.puzzle.ch",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.puzzle.ch/archlinux/",
@@ -3718,34 +5404,54 @@
     ]
   },
   {
+    "code": "CH",
     "country": "switzerland",
     "iso": "yes",
     "name": "theswissbay.ch",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://theswissbay.ch/archlinux/"]
+    "urls": [
+      "https://theswissbay.ch/archlinux/"
+    ]
   },
   {
+    "code": "CH",
     "country": "switzerland",
     "iso": "no",
     "name": "ungleich.ch",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://mirror.ungleich.ch/mirror/packages/archlinux/"]
+    "urls": [
+      "https://mirror.ungleich.ch/mirror/packages/archlinux/"
+    ]
   },
   {
+    "code": "CH",
     "country": "switzerland",
     "iso": "yes",
     "name": "worldhotspot.org",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://mirror.worldhotspot.org/archlinux/"]
+    "urls": [
+      "https://mirror.worldhotspot.org/archlinux/"
+    ]
   },
   {
+    "code": "TW",
     "country": "taiwan",
     "iso": "yes",
     "name": "archlinux.tw",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.archlinux.tw/ArchLinux/",
@@ -3754,26 +5460,43 @@
     ]
   },
   {
+    "code": "TW",
     "country": "taiwan",
     "iso": "yes",
     "name": "ccns.ncku.edu.tw",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://archlinux.ccns.ncku.edu.tw/archlinux/"]
+    "urls": [
+      "http://archlinux.ccns.ncku.edu.tw/archlinux/"
+    ]
   },
   {
+    "code": "TW",
     "country": "taiwan",
     "iso": "yes",
     "name": "free.nchc.org.tw",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
-    "urls": ["http://free.nchc.org.tw/arch/", "https://free.nchc.org.tw/arch/"]
+    "urls": [
+      "http://free.nchc.org.tw/arch/",
+      "https://free.nchc.org.tw/arch/"
+    ]
   },
   {
+    "code": "TW",
     "country": "taiwan",
     "iso": "yes",
     "name": "nycu.edu.tw",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://archlinux.cs.nycu.edu.tw/",
@@ -3782,10 +5505,14 @@
     ]
   },
   {
+    "code": "TW",
     "country": "taiwan",
     "iso": "yes",
     "name": "tku.edu.tw",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://ftp.tku.edu.tw/Linux/ArchLinux/",
@@ -3793,10 +5520,15 @@
     ]
   },
   {
+    "code": "TW",
     "country": "taiwan",
     "iso": "yes",
     "name": "yzu.edu.tw",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://ftp.yzu.edu.tw/Linux/archlinux/",
@@ -3805,10 +5537,14 @@
     ]
   },
   {
+    "code": "TH",
     "country": "thailand",
     "iso": "yes",
     "name": "cyberbits.asia",
-    "protocols": ["https", "rsync"],
+    "protocols": [
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "https://mirror.cyberbits.asia/archlinux/",
@@ -3816,10 +5552,15 @@
     ]
   },
   {
+    "code": "TH",
     "country": "thailand",
     "iso": "yes",
     "name": "kku.ac.th",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.kku.ac.th/archlinux/",
@@ -3828,26 +5569,41 @@
     ]
   },
   {
+    "code": "TH",
     "country": "thailand",
     "iso": "yes",
     "name": "totbb.net",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://mirror2.totbb.net/archlinux/"]
+    "urls": [
+      "http://mirror2.totbb.net/archlinux/"
+    ]
   },
   {
+    "code": "TR",
     "country": "turkey",
     "iso": "yes",
     "name": "linux.org.tr",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://ftp.linux.org.tr/archlinux/"]
+    "urls": [
+      "http://ftp.linux.org.tr/archlinux/"
+    ]
   },
   {
+    "code": "TR",
     "country": "turkey",
     "iso": "yes",
     "name": "linux.web.tr",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://depo.turkiye.linux.web.tr/archlinux/",
@@ -3856,10 +5612,14 @@
     ]
   },
   {
+    "code": "TR",
     "country": "turkey",
     "iso": "no",
     "name": "veriteknik.net.tr",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.veriteknik.net.tr/archlinux/",
@@ -3867,10 +5627,15 @@
     ]
   },
   {
+    "code": "UA",
     "country": "ukraine",
     "iso": "yes",
     "name": "astra.in.ua",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://archlinux.astra.in.ua/",
@@ -3879,10 +5644,14 @@
     ]
   },
   {
+    "code": "UA",
     "country": "ukraine",
     "iso": "yes",
     "name": "endpoint.ml",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://repo.endpoint.ml/archlinux/",
@@ -3890,10 +5659,15 @@
     ]
   },
   {
+    "code": "UA",
     "country": "ukraine",
     "iso": "yes",
     "name": "fastmirror.pp.ua",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://fastmirror.pp.ua/archlinux/",
@@ -3902,10 +5676,15 @@
     ]
   },
   {
+    "code": "UA",
     "country": "ukraine",
     "iso": "yes",
     "name": "ip-connect.vn.ua",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://archlinux.ip-connect.vn.ua/",
@@ -3914,10 +5693,15 @@
     ]
   },
   {
+    "code": "UA",
     "country": "ukraine",
     "iso": "yes",
     "name": "mirohost.net",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.mirohost.net/archlinux/",
@@ -3926,10 +5710,15 @@
     ]
   },
   {
+    "code": "UA",
     "country": "ukraine",
     "iso": "yes",
     "name": "nix.org.ua",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.nix.org.ua/linux/archlinux/",
@@ -3938,10 +5727,15 @@
     ]
   },
   {
+    "code": "GB",
     "country": "united kingdom",
     "iso": "yes",
     "name": "bytemark.co.uk",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.bytemark.co.uk/archlinux/",
@@ -3950,10 +5744,14 @@
     ]
   },
   {
+    "code": "GB",
     "country": "united kingdom",
     "iso": "yes",
     "name": "manchester.m247.com",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.manchester.m247.com/arch-linux/",
@@ -3961,10 +5759,15 @@
     ]
   },
   {
+    "code": "GB",
     "country": "united kingdom",
     "iso": "yes",
     "name": "melbourne.co.uk",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.melbourne.co.uk/archlinux/",
@@ -3973,10 +5776,15 @@
     ]
   },
   {
+    "code": "GB",
     "country": "united kingdom",
     "iso": "yes",
     "name": "mirror.infernocomms.net",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.infernocomms.net/archlinux/",
@@ -3985,10 +5793,15 @@
     ]
   },
   {
+    "code": "GB",
     "country": "united kingdom",
     "iso": "yes",
     "name": "mirrorservice.org",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://www.mirrorservice.org/sites/ftp.archlinux.org/",
@@ -3997,10 +5810,14 @@
     ]
   },
   {
+    "code": "GB",
     "country": "united kingdom",
     "iso": "yes",
     "name": "netweaver.uk",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.netweaver.uk/archlinux/",
@@ -4008,10 +5825,14 @@
     ]
   },
   {
+    "code": "GB",
     "country": "united kingdom",
     "iso": "yes",
     "name": "serverspace.co.uk",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://arch.serverspace.co.uk/arch/",
@@ -4019,18 +5840,28 @@
     ]
   },
   {
+    "code": "GB",
     "country": "united kingdom",
     "iso": "yes",
     "name": "slithery.uk",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://repo.slithery.uk/"]
+    "urls": [
+      "https://repo.slithery.uk/"
+    ]
   },
   {
+    "code": "GB",
     "country": "united kingdom",
     "iso": "yes",
     "name": "ukfast.co.uk",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.ukfast.co.uk/sites/archlinux.org/",
@@ -4039,10 +5870,14 @@
     ]
   },
   {
+    "code": "GB",
     "country": "united kingdom",
     "iso": "yes",
     "name": "ukservers.com",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.cov.ukservers.com/archlinux/",
@@ -4050,10 +5885,15 @@
     ]
   },
   {
+    "code": "GB",
     "country": "united kingdom",
     "iso": "yes",
     "name": "vinehost.net",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.vinehost.net/archlinux/",
@@ -4062,18 +5902,28 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "acm.wpi.edu",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://mirrors.acm.wpi.edu/archlinux/"]
+    "urls": [
+      "http://mirrors.acm.wpi.edu/archlinux/"
+    ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "adectra.com",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.adectra.com/archlinux/",
@@ -4082,10 +5932,14 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "advancedhosters.com",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.advancedhosters.com/archlinux/",
@@ -4093,10 +5947,14 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "aggregate.org",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.aggregate.org/archlinux/",
@@ -4104,10 +5962,15 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "arizona.edu",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.arizona.edu/archlinux/",
@@ -4116,10 +5979,15 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "arlm.tyzoid.com",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://arlm.tyzoid.com/",
@@ -4128,18 +5996,28 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "ava.dev",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://mirror.ava.dev/archlinux/"]
+    "urls": [
+      "https://mirror.ava.dev/archlinux/"
+    ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "bloomu.edu",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.bloomu.edu/archlinux/",
@@ -4148,18 +6026,27 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "ca.us.mirror.archlinux-br.org",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://ca.us.mirror.archlinux-br.org/"]
+    "urls": [
+      "http://ca.us.mirror.archlinux-br.org/"
+    ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "cat.pdx.edu",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.cat.pdx.edu/archlinux/",
@@ -4167,10 +6054,14 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "cc.columbia.edu",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.cc.columbia.edu/pub/linux/archlinux/",
@@ -4178,10 +6069,15 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "clarkson.edu",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.clarkson.edu/archlinux/",
@@ -4190,10 +6086,15 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "constant.com",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://arch.mirror.constant.com/",
@@ -4202,10 +6103,14 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "cs.pitt.edu",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.cs.pitt.edu/archlinux/",
@@ -4213,10 +6118,14 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "cs.vt.edu",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.cs.vt.edu/pub/ArchLinux/",
@@ -4224,10 +6133,14 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "cybersecurity.nmt.edu",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.cybersecurity.nmt.edu/archlinux/",
@@ -4235,10 +6148,14 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "distro.ibiblio.org",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://distro.ibiblio.org/archlinux/",
@@ -4246,10 +6163,14 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "es.its.nyu.edu",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://mirror.es.its.nyu.edu/archlinux/",
@@ -4257,10 +6178,15 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "ette.biz",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.ette.biz/archlinux/",
@@ -4269,10 +6195,14 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "fossable.org",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.fossable.org/archlinux/",
@@ -4280,18 +6210,27 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "gigenet.com",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://mirrors.gigenet.com/archlinux/"]
+    "urls": [
+      "http://mirrors.gigenet.com/archlinux/"
+    ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "gtlib.gatech.edu",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://www.gtlib.gatech.edu/pub/archlinux/",
@@ -4299,10 +6238,15 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "hackingand.coffee",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://mirror.hackingand.coffee/arch/",
@@ -4311,18 +6255,28 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "hodgepodge.dev",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://mirror.hodgepodge.dev/archlinux/"]
+    "urls": [
+      "https://mirror.hodgepodge.dev/archlinux/"
+    ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "hostup.org",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.hostup.org/archlinux/",
@@ -4331,10 +6285,15 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "hu.fo",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://arch.hu.fo/archlinux/",
@@ -4343,10 +6302,14 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "ialab.dsu.edu",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://repo.ialab.dsu.edu/archlinux/",
@@ -4354,18 +6317,28 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "ivo.st",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://arch.mirror.ivo.st/"]
+    "urls": [
+      "https://arch.mirror.ivo.st/"
+    ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "kernel.org",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://mirrors.kernel.org/archlinux/",
@@ -4374,10 +6347,14 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "liquidweb.com",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.liquidweb.com/archlinux/",
@@ -4385,10 +6362,15 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "lty.me",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.lty.me/archlinux/",
@@ -4397,10 +6379,15 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "lug.mtu.edu",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://mirrors.lug.mtu.edu/archlinux/",
@@ -4409,18 +6396,27 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "m.lqy.me",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://m.lqy.me/arch/"]
+    "urls": [
+      "https://m.lqy.me/arch/"
+    ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "math.princeton.edu",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.math.princeton.edu/pub/archlinux/",
@@ -4428,18 +6424,27 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "metrocast.net",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://mirror.metrocast.net/archlinux/"]
+    "urls": [
+      "http://mirror.metrocast.net/archlinux/"
+    ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "mirror.kaminski.io",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.kaminski.io/archlinux/",
@@ -4447,10 +6452,14 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "mirror.stephanie.is",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.stephanie.is/archlinux/",
@@ -4458,10 +6467,15 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "misaka.one",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://iad.mirrors.misaka.one/archlinux/",
@@ -4470,18 +6484,28 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "miserver.it.umich.edu",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://repo.miserver.it.umich.edu/archlinux/"]
+    "urls": [
+      "http://repo.miserver.it.umich.edu/archlinux/"
+    ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "mit.edu",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.mit.edu/archlinux/",
@@ -4490,10 +6514,15 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "ocf.berkeley.edu",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://mirrors.ocf.berkeley.edu/archlinux/",
@@ -4502,18 +6531,30 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "octyl.net",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
-    "urls": ["http://archmirror1.octyl.net/", "https://archmirror1.octyl.net/"]
+    "urls": [
+      "http://archmirror1.octyl.net/",
+      "https://archmirror1.octyl.net/"
+    ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "osuosl.org",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": -1,
     "urls": [
       "http://ftp.osuosl.org/pub/archlinux/",
@@ -4522,18 +6563,28 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "pair.com",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://arch.mirrors.pair.com/"]
+    "urls": [
+      "http://arch.mirrors.pair.com/"
+    ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "radwebhosting.com",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.radwebhosting.com/archlinux/",
@@ -4542,10 +6593,15 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "rcac.purdue.edu",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://plug-mirror.rcac.purdue.edu/archlinux/",
@@ -4554,10 +6610,15 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "rit.edu",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 1,
     "urls": [
       "http://mirrors.rit.edu/archlinux/",
@@ -4566,10 +6627,14 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "rutgers.edu",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.rutgers.edu/archlinux/",
@@ -4577,10 +6642,14 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "sandyriver.net",
-    "protocols": ["https", "rsync"],
+    "protocols": [
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "https://mirror2.sandyriver.net/pub/archlinux/",
@@ -4588,10 +6657,14 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "siena.edu",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.siena.edu/archlinux/",
@@ -4599,10 +6672,15 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "no",
     "name": "sonic.net",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.sonic.net/archlinux/",
@@ -4611,10 +6689,15 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "spryservers.net",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.phx1.us.spryservers.net/archlinux/",
@@ -4623,10 +6706,15 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "square-r00t.net",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://arch.mirror.square-r00t.net/",
@@ -4635,10 +6723,14 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "stjschools.org",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.stjschools.org/arch/",
@@ -4646,10 +6738,14 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "sudhip.com",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://ftp.sudhip.com/archlinux/",
@@ -4657,10 +6753,15 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "teraswitch.com",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.pit.teraswitch.com/archlinux/",
@@ -4669,10 +6770,14 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "the-repo.org",
-    "protocols": ["https", "rsync"],
+    "protocols": [
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "https://mirror.the-repo.org/ArchMirror/",
@@ -4680,26 +6785,41 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "theash.xyz",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://mirror.theash.xyz/arch/"]
+    "urls": [
+      "https://mirror.theash.xyz/arch/"
+    ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "tmmworkshop.com",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://mirror.tmmworkshop.com/archlinux/"]
+    "urls": [
+      "https://mirror.tmmworkshop.com/archlinux/"
+    ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "umd.edu",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.umd.edu/archlinux/",
@@ -4708,10 +6828,14 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "vectair.net",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirrors.vectair.net/archlinux/",
@@ -4719,34 +6843,55 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "vtti.vt.edu",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://mirror.vtti.vt.edu/archlinux/"]
+    "urls": [
+      "http://mirror.vtti.vt.edu/archlinux/"
+    ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "wcbmedia.io",
-    "protocols": ["http", "rsync"],
+    "protocols": [
+      "http",
+      "rsync"
+    ],
     "tier": 2,
-    "urls": ["http://wcbmedia.io:8000/", "rsync://wcbmedia.io:8000/"]
+    "urls": [
+      "http://wcbmedia.io:8000/",
+      "rsync://wcbmedia.io:8000/"
+    ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "xmission.com",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://mirrors.xmission.com/archlinux/"]
+    "urls": [
+      "http://mirrors.xmission.com/archlinux/"
+    ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "xtom.com",
-    "protocols": ["http", "https"],
+    "protocols": [
+      "http",
+      "https"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.xtom.com.hk/archlinux/",
@@ -4754,10 +6899,14 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "zackmyers.io",
-    "protocols": ["https", "rsync"],
+    "protocols": [
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "https://mirror.zackmyers.io/archlinux/",
@@ -4765,18 +6914,30 @@
     ]
   },
   {
+    "code": "US",
     "country": "united states",
     "iso": "yes",
     "name": "zxcvfdsa.com",
-    "protocols": ["https", "rsync"],
+    "protocols": [
+      "https",
+      "rsync"
+    ],
     "tier": 2,
-    "urls": ["https://zxcvfdsa.com/arch/", "rsync://zxcvfdsa.com/arch/"]
+    "urls": [
+      "https://zxcvfdsa.com/arch/",
+      "rsync://zxcvfdsa.com/arch/"
+    ]
   },
   {
+    "code": "UZ",
     "country": "uzbekistan",
     "iso": "no",
     "name": "dc.uz",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tier": 2,
     "urls": [
       "http://mirror.dc.uz/arch/",
@@ -4785,10 +6946,15 @@
     ]
   },
   {
+    "code": "",
     "country": "various",
     "iso": "yes",
     "name": "allworldit.com",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tire": 1,
     "urls": [
       "http://archlinux.za.mirror.allworldit.com/archlinux/",
@@ -4797,18 +6963,28 @@
     ]
   },
   {
+    "code": "",
     "country": "various",
     "iso": "yes",
     "name": "archlinux-br.org",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tire": 2,
-    "urls": ["http://br.mirror.archlinux-br.org/"]
+    "urls": [
+      "http://br.mirror.archlinux-br.org/"
+    ]
   },
   {
+    "code": "",
     "country": "various",
     "iso": "yes",
     "name": "fcix.net",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tire": 2,
     "urls": [
       "http://gsl-syd.mm.fcix.net/archlinux/",
@@ -4817,18 +6993,27 @@
     ]
   },
   {
+    "code": "",
     "country": "various",
     "iso": "yes",
     "name": "geo.mirror.pkgbuild.com",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tire": 1,
-    "urls": ["https://geo.mirror.pkgbuild.com/"]
+    "urls": [
+      "https://geo.mirror.pkgbuild.com/"
+    ]
   },
   {
+    "code": "",
     "country": "various",
     "iso": "yes",
     "name": "kescher.at",
-    "protocols": ["https", "rsync"],
+    "protocols": [
+      "https",
+      "rsync"
+    ],
     "tire": 1,
     "urls": [
       "https://at.arch.mirror.kescher.at/",
@@ -4836,10 +7021,15 @@
     ]
   },
   {
+    "code": "",
     "country": "various",
     "iso": "yes",
     "name": "koddos.net",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tire": 2,
     "urls": [
       "http://mirror-hk.koddos.net/archlinux/",
@@ -4848,10 +7038,15 @@
     ]
   },
   {
+    "code": "",
     "country": "various",
     "iso": "yes",
     "name": "leaseweb.net",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tire": 1,
     "urls": [
       "http://mirror.fra10.de.leaseweb.net/archlinux/",
@@ -4860,10 +7055,15 @@
     ]
   },
   {
+    "code": "",
     "country": "various",
     "iso": "yes",
     "name": "rackspace.com",
-    "protocols": ["http", "https", "rsync"],
+    "protocols": [
+      "http",
+      "https",
+      "rsync"
+    ],
     "tire": 1,
     "urls": [
       "http://syd.mirror.rackspace.com/archlinux/",
@@ -4872,10 +7072,14 @@
     ]
   },
   {
+    "code": "",
     "country": "various",
     "iso": "yes",
     "name": "yal.sl-chat.ru",
-    "protocols": ["https", "rsync"],
+    "protocols": [
+      "https",
+      "rsync"
+    ],
     "tire": 2,
     "urls": [
       "https://mirror.yal.sl-chat.ru/archlinux/",
@@ -4883,27 +7087,42 @@
     ]
   },
   {
+    "code": "VN",
     "country": "vietnam",
     "iso": "yes",
     "name": "42tm.tech",
-    "protocols": ["https"],
+    "protocols": [
+      "https"
+    ],
     "tier": 2,
-    "urls": ["https://mirrors.42tm.tech/archlinux/"]
+    "urls": [
+      "https://mirrors.42tm.tech/archlinux/"
+    ]
   },
   {
+    "code": "VN",
     "country": "vietnam",
     "iso": "yes",
     "name": "archlinuxvn.org",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://f.archlinuxvn.org/archlinux/"]
+    "urls": [
+      "http://f.archlinuxvn.org/archlinux/"
+    ]
   },
   {
+    "code": "VN",
     "country": "vietnam",
     "iso": "yes",
     "name": "bizflycloud.vn",
-    "protocols": ["http"],
+    "protocols": [
+      "http"
+    ],
     "tier": 2,
-    "urls": ["http://mirror.bizflycloud.vn/archlinux/"]
+    "urls": [
+      "http://mirror.bizflycloud.vn/archlinux/"
+    ]
   }
 ]
